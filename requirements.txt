@@ -1,0 +1,33 @@
+# Core data
+pandas>=2.0.0
+polars>=0.20.0
+pyarrow>=14.0.0
+numpy>=1.26.0
+
+# WRDS
+wrds>=3.1.6
+
+# NLP / tone scoring
+nltk>=3.8.1
+requests>=2.31.0
+
+# LLM / RAG
+openai>=1.12.0
+llama-index>=0.10.0
+llama-index-vector-stores-chroma>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+llama-index-llms-openai>=0.1.0
+chromadb>=0.4.0
+
+# Analysis
+scipy>=1.11.0
+statsmodels>=0.14.0
+scikit-learn>=1.4.0
+
+# Visualization / App
+streamlit>=1.32.0
+plotly>=5.19.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0

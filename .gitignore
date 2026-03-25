@@ -1,0 +1,16 @@
+.env
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+chroma_db/
+*.parquet
+*.csv
+!firm_year_downloads_with_names.csv
+notebooks/.ipynb_checkpoints/
