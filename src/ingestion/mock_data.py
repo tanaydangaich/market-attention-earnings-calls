@@ -17,7 +17,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from src.config import PROCESSED_DIR, TOP100_PATH
+from src.config import PROCESSED_DIR, FIRM_UNIVERSE_PATH
 
 random.seed(42)
 np.random.seed(42)
@@ -331,7 +331,7 @@ def build_mock_data(force: bool = False) -> tuple[pd.DataFrame, pd.DataFrame]:
 
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
-    with open(TOP100_PATH) as f:
+    with open(FIRM_UNIVERSE_PATH) as f:
         firms = json.load(f)
 
     transcripts_df = generate_transcripts(firms)

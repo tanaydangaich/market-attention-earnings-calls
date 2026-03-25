@@ -28,12 +28,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 ROOT = Path(__file__).resolve().parents[2]
-TOP100_PATH = ROOT / "data" / "top100_firms.json"
+FIRM_UNIVERSE_PATH = ROOT / "data" / "firm_universe.json"
 PROCESSED_DIR = ROOT / "data" / "processed"
 
 
-def load_top100_firms() -> list[dict]:
-    with open(TOP100_PATH) as f:
+def load_firm_universe() -> list[dict]:
+    with open(FIRM_UNIVERSE_PATH) as f:
         return json.load(f)
 
 
@@ -128,7 +128,7 @@ def build_transcripts(force: bool = False) -> pd.DataFrame:
         return pd.read_parquet(out_path)
 
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
-    firms = load_top100_firms()
+    firms = load_firm_universe()
 
     print("Connecting to WRDS...")
     conn = get_wrds_connection()

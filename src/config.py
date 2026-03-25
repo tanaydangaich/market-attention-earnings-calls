@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 RAW_DIR = DATA_DIR / "raw"
 PROCESSED_DIR = DATA_DIR / "processed"
-TOP100_PATH = DATA_DIR / "top100_firms.json"
+FIRM_UNIVERSE_PATH = DATA_DIR / "firm_universe.json"
 CHROMA_DIR = ROOT / "chroma_db"
 
 # API

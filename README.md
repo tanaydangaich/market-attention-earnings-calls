@@ -1,7 +1,7 @@
 # Market Attention Shifts Around Earnings Calls
 
 > Do EDGAR filing download spikes follow negative earnings call tone?
-> A GenAI-powered event study across 100 large-cap firms, 2003–2015.
+> A GenAI-powered event study across 731 firms, 2003–2015.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![LlamaIndex](https://img.shields.io/badge/RAG-LlamaIndex-orange)
@@ -89,9 +89,9 @@ Standard errors are HC3 heteroskedasticity-robust.
 | EDGAR Server Log | Notre Dame SRAF (Loughran & McDonald 2017) | 2003–2015, ~220M records | Public — [sraf.nd.edu](https://sraf.nd.edu/data/edgar-server-log/) |
 | Earnings Call Transcripts | Refinitiv StreetEvents via WRDS | 2003–2015, ~5,200 calls | Academic (WRDS subscription) |
 | LM Master Dictionary | Notre Dame SRAF | 86,000+ financial terms | Public — [sraf.nd.edu](https://sraf.nd.edu/loughranmcdonald-master-dictionary/) |
-| Firm Universe | Author's dataset (731 firms, 2003–2015) | Top 100 by EDGAR download volume | Proprietary |
+| Firm Universe | Author's proprietary dataset | 731 firms, 2003–2015, 51M download events | Proprietary |
 
-The firm universe derives from a proprietary EDGAR download dataset covering 731 firms and 51M download events — originally built for research on environmental activist campaigns and SEC filing access patterns.
+**A note on the firm universe:** The 731 firms come from a proprietary dataset originally built for academic research on environmental activist campaigns and corporate SEC filing behavior — not constructed for this project. This means the sample is not a random draw from the market, nor the top firms by market cap. It is a specific, curated set of firms that were subjects of activist scrutiny during 2003–2015. Results should be interpreted within that context. That said, the dataset covers a wide range of industries, includes firms of varying size and visibility, and spans the full 2008 crisis period — making it well-suited for this analysis even if not perfectly representative of the broader market.
 
 ---
 
@@ -124,7 +124,7 @@ finance/
 │   └── viz/
 │       └── app.py               # Streamlit dashboard
 ├── data/
-│   ├── top100_firms.json        # Firm universe (100 large-caps by download volume)
+│   ├── firm_universe.json       # 731-firm universe (from prior research dataset)
 │   └── processed/               # Pipeline outputs (parquet)
 ├── notebooks/                   # EDA and exploration
 ├── main.py                      # Pipeline entry point

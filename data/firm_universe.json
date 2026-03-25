@@ -1,0 +1,4388 @@
+[
+  {
+    "name": "Berkshire Hathaway Inc.",
+    "ticker": "BERKSHIREHATHAWAY",
+    "cik": "1067983",
+    "total": 1137265
+  },
+  {
+    "name": "Amazon.com, Inc.",
+    "ticker": "",
+    "cik": "1018724",
+    "total": 1017785
+  },
+  {
+    "name": "Exxon Mobil Corporation",
+    "ticker": "",
+    "cik": "34088",
+    "total": 843835
+  },
+  {
+    "name": "General Electric Company",
+    "ticker": "",
+    "cik": "40545",
+    "total": 825212
+  },
+  {
+    "name": "HP Inc.",
+    "ticker": "",
+    "cik": "47217",
+    "total": 739476
+  },
+  {
+    "name": "The Coca-Cola Company",
+    "ticker": "",
+    "cik": "21344",
+    "total": 717666
+  },
+  {
+    "name": "Ford Motor Company",
+    "ticker": "FORDMOTOR",
+    "cik": "37996",
+    "total": 680361
+  },
+  {
+    "name": "Pfizer Inc.",
+    "ticker": "PFIZER",
+    "cik": "78003",
+    "total": 631634
+  },
+  {
+    "name": "Intel Corporation",
+    "ticker": "INTEL",
+    "cik": "50863",
+    "total": 599618
+  },
+  {
+    "name": "PepsiCo, Inc.",
+    "ticker": "PEPSICO",
+    "cik": "77476",
+    "total": 558280
+  },
+  {
+    "name": "Johnson & Johnson",
+    "ticker": "JOHNSONJOHNSON",
+    "cik": "200406",
+    "total": 550073
+  },
+  {
+    "name": "The Boeing Company",
+    "ticker": "",
+    "cik": "12927",
+    "total": 532683
+  },
+  {
+    "name": "The Procter & Gamble Company",
+    "ticker": "",
+    "cik": "80424",
+    "total": 527969
+  },
+  {
+    "name": "Caterpillar Inc.",
+    "ticker": "CATERPILLAR",
+    "cik": "18230",
+    "total": 501779
+  },
+  {
+    "name": "General Motors Company",
+    "ticker": "GENMOTORS",
+    "cik": "1467858",
+    "total": 424026
+  },
+  {
+    "name": "Howmet Aerospace Inc.",
+    "ticker": "",
+    "cik": "4281",
+    "total": 415033
+  },
+  {
+    "name": "The Kroger Co.",
+    "ticker": "",
+    "cik": "56873",
+    "total": 394304
+  },
+  {
+    "name": "Tesla, Inc.",
+    "ticker": "",
+    "cik": "1318605",
+    "total": 386675
+  },
+  {
+    "name": "Mondelez International, Inc.",
+    "ticker": "",
+    "cik": "1103982",
+    "total": 337813
+  },
+  {
+    "name": "Abbott Laboratories",
+    "ticker": "ABBOTTLAB",
+    "cik": "1800",
+    "total": 328153
+  },
+  {
+    "name": "Merck & Co., Inc.",
+    "ticker": "MERCK",
+    "cik": "310158",
+    "total": 325272
+  },
+  {
+    "name": "Chevron Corporation",
+    "ticker": "CHEVRON",
+    "cik": "93410",
+    "total": 317697
+  },
+  {
+    "name": "3M Company",
+    "ticker": "3M",
+    "cik": "66740",
+    "total": 306119
+  },
+  {
+    "name": "Zimmer Biomet Holdings, Inc.",
+    "ticker": "",
+    "cik": "1136869",
+    "total": 300388
+  },
+  {
+    "name": "Raytheon Technologies Corporation",
+    "ticker": "",
+    "cik": "101829",
+    "total": 267456
+  },
+  {
+    "name": "Bristol-Myers Squibb Company",
+    "ticker": "",
+    "cik": "14272",
+    "total": 244848
+  },
+  {
+    "name": "Lockheed Martin Corporation",
+    "ticker": "LOCKHEEDMARTIN",
+    "cik": "936468",
+    "total": 244746
+  },
+  {
+    "name": "Amgen Inc.",
+    "ticker": "AMGEN",
+    "cik": "318154",
+    "total": 236317
+  },
+  {
+    "name": "",
+    "ticker": "SAFEWAY",
+    "cik": "86144",
+    "total": 227634
+  },
+  {
+    "name": "Eastman Kodak Company",
+    "ticker": "EASTMANKODAK",
+    "cik": "31235",
+    "total": 223982
+  },
+  {
+    "name": "General Mills, Inc.",
+    "ticker": "GENMILLS",
+    "cik": "40704",
+    "total": 219600
+  },
+  {
+    "name": "QUALCOMM Incorporated",
+    "ticker": "QUALCOMM",
+    "cik": "804328",
+    "total": 216175
+  },
+  {
+    "name": "Deere & Company",
+    "ticker": "DEERE",
+    "cik": "315189",
+    "total": 210479
+  },
+  {
+    "name": "Altria Group, Inc.",
+    "ticker": "",
+    "cik": "764180",
+    "total": 203756
+  },
+  {
+    "name": "Honeywell International Inc.",
+    "ticker": "",
+    "cik": "773840",
+    "total": 202233
+  },
+  {
+    "name": "The Hershey Company",
+    "ticker": "HERSHEY",
+    "cik": "47111",
+    "total": 201350
+  },
+  {
+    "name": "Halliburton Company",
+    "ticker": "",
+    "cik": "45012",
+    "total": 200602
+  },
+  {
+    "name": "Johnson Controls International plc",
+    "ticker": "",
+    "cik": "833444",
+    "total": 197757
+  },
+  {
+    "name": "Northrop Grumman Corporation",
+    "ticker": "NORTHROPGRUMMAN",
+    "cik": "1133421",
+    "total": 189798
+  },
+  {
+    "name": "Kellogg Company",
+    "ticker": "KELLOGG",
+    "cik": "55067",
+    "total": 187816
+  },
+  {
+    "name": "Texas Instruments Incorporated",
+    "ticker": "TEXASINSTR",
+    "cik": "97476",
+    "total": 176551
+  },
+  {
+    "name": "Freeport-McMoRan Inc.",
+    "ticker": "FREEPORTMCMORAN",
+    "cik": "831259",
+    "total": 176249
+  },
+  {
+    "name": "Cardinal Health, Inc.",
+    "ticker": "CARDINALHEALTH",
+    "cik": "721371",
+    "total": 175749
+  },
+  {
+    "name": "Baxter International Inc.",
+    "ticker": "",
+    "cik": "10456",
+    "total": 175646
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "945436",
+    "total": 175009
+  },
+  {
+    "name": "Biogen Inc.",
+    "ticker": "BIOGEN",
+    "cik": "875045",
+    "total": 169588
+  },
+  {
+    "name": "Boston Scientific Corporation",
+    "ticker": "BOSTONSCI",
+    "cik": "885725",
+    "total": 168018
+  },
+  {
+    "name": "NRG Energy, Inc.",
+    "ticker": "NRGENERGY",
+    "cik": "1013871",
+    "total": 164321
+  },
+  {
+    "name": "Archer-Daniels-Midland Company",
+    "ticker": "ARCHERDANIELSMIDLAND",
+    "cik": "7084",
+    "total": 161603
+  },
+  {
+    "name": "Emerson Electric Co.",
+    "ticker": "EMERSONELECTRIC",
+    "cik": "32604",
+    "total": 160726
+  },
+  {
+    "name": "Tyson Foods, Inc.",
+    "ticker": "TYSONFOODS",
+    "cik": "100493",
+    "total": 159619
+  },
+  {
+    "name": "Colgate-Palmolive Company",
+    "ticker": "COLGATEPALMOLIVE",
+    "cik": "21665",
+    "total": 159550
+  },
+  {
+    "name": "Conagra Brands, Inc.",
+    "ticker": "",
+    "cik": "23217",
+    "total": 158841
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "310569",
+    "total": 158717
+  },
+  {
+    "name": "Micron Technology, Inc.",
+    "ticker": "MICRONTECH",
+    "cik": "723125",
+    "total": 157802
+  },
+  {
+    "name": "Molson Coors Beverage Company",
+    "ticker": "",
+    "cik": "24545",
+    "total": 157624
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "808450",
+    "total": 156260
+  },
+  {
+    "name": "Applied Materials, Inc.",
+    "ticker": "APPLIEDMATERIALS",
+    "cik": "6951",
+    "total": 156001
+  },
+  {
+    "name": "The Clorox Company",
+    "ticker": "",
+    "cik": "21076",
+    "total": 151053
+  },
+  {
+    "name": "Cleveland-Cliffs Inc.",
+    "ticker": "",
+    "cik": "764065",
+    "total": 150666
+  },
+  {
+    "name": "Danaher Corporation",
+    "ticker": "DANAHER",
+    "cik": "313616",
+    "total": 146463
+  },
+  {
+    "name": "Valero Energy Corporation",
+    "ticker": "VALEROENERGY",
+    "cik": "1035002",
+    "total": 146428
+  },
+  {
+    "name": "",
+    "ticker": "RAYTHEON",
+    "cik": "1047122",
+    "total": 146080
+  },
+  {
+    "name": "Stryker Corporation",
+    "ticker": "STRYKER",
+    "cik": "310764",
+    "total": 145534
+  },
+  {
+    "name": "The Sherwin-Williams Company",
+    "ticker": "",
+    "cik": "89800",
+    "total": 143501
+  },
+  {
+    "name": "Peabody Energy Corporation",
+    "ticker": "PEABODYENERGY",
+    "cik": "1064728",
+    "total": 142789
+  },
+  {
+    "name": "General Dynamics Corporation",
+    "ticker": "GENDYNAMICS",
+    "cik": "40533",
+    "total": 142554
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1545158",
+    "total": 141707
+  },
+  {
+    "name": "Teva Pharmaceutical Industries Limited",
+    "ticker": "",
+    "cik": "818686",
+    "total": 140273
+  },
+  {
+    "name": "Campbell Soup Company",
+    "ticker": "CAMPBELLSOUP",
+    "cik": "16732",
+    "total": 139860
+  },
+  {
+    "name": "Agilent Technologies, Inc.",
+    "ticker": "AGILENTTECH",
+    "cik": "1090872",
+    "total": 137465
+  },
+  {
+    "name": "Schlumberger Limited",
+    "ticker": "",
+    "cik": "87347",
+    "total": 135162
+  },
+  {
+    "name": "First Solar, Inc.",
+    "ticker": "FIRSTSOLAR",
+    "cik": "1274494",
+    "total": 134636
+  },
+  {
+    "name": "Hess Corporation",
+    "ticker": "HESS",
+    "cik": "4447",
+    "total": 134042
+  },
+  {
+    "name": "Occidental Petroleum Corporation",
+    "ticker": "OCCIDENTALPETROLEUM",
+    "cik": "797468",
+    "total": 132888
+  },
+  {
+    "name": "International Paper Company",
+    "ticker": "INTPAPER",
+    "cik": "51434",
+    "total": 130597
+  },
+  {
+    "name": "Weyerhaeuser Company",
+    "ticker": "WEYERHAEUSER",
+    "cik": "106535",
+    "total": 129971
+  },
+  {
+    "name": "",
+    "ticker": "ALERE",
+    "cik": "1145460",
+    "total": 129801
+  },
+  {
+    "name": "Kimberly-Clark Corporation",
+    "ticker": "KIMBERLYCLARK",
+    "cik": "55785",
+    "total": 129640
+  },
+  {
+    "name": "Western Digital Corporation",
+    "ticker": "WESTERNDIGITAL",
+    "cik": "106040",
+    "total": 126048
+  },
+  {
+    "name": "American Electric Power Company, Inc.",
+    "ticker": "AMERICANELECTRICPOWER",
+    "cik": "4904",
+    "total": 124438
+  },
+  {
+    "name": "Thermo Fisher Scientific Inc.",
+    "ticker": "THERMOFISHERSCI",
+    "cik": "97745",
+    "total": 124034
+  },
+  {
+    "name": "Corning Incorporated",
+    "ticker": "CORNING",
+    "cik": "24741",
+    "total": 123854
+  },
+  {
+    "name": "",
+    "ticker": "TIFFANY",
+    "cik": "98246",
+    "total": 121549
+  },
+  {
+    "name": "The AES Corporation",
+    "ticker": "AES",
+    "cik": "874761",
+    "total": 121253
+  },
+  {
+    "name": "",
+    "ticker": "REYNOLDSAMERICAN",
+    "cik": "1275283",
+    "total": 118229
+  },
+  {
+    "name": "PPG Industries, Inc.",
+    "ticker": "PPGIND",
+    "cik": "79879",
+    "total": 117741
+  },
+  {
+    "name": "Whirlpool Corporation",
+    "ticker": "WHIRLPOOL",
+    "cik": "106640",
+    "total": 117622
+  },
+  {
+    "name": "Air Products and Chemicals, Inc.",
+    "ticker": "AIRPRODCHEM",
+    "cik": "2969",
+    "total": 117572
+  },
+  {
+    "name": "The Mosaic Company",
+    "ticker": "",
+    "cik": "1285785",
+    "total": 117221
+  },
+  {
+    "name": "Illinois Tool Works Inc.",
+    "ticker": "ILLINOISTOOLWORKS",
+    "cik": "49826",
+    "total": 116978
+  },
+  {
+    "name": "CNX Resources Corporation",
+    "ticker": "CONSOLENERGY",
+    "cik": "1070412",
+    "total": 116354
+  },
+  {
+    "name": "Constellation Brands, Inc.",
+    "ticker": "CONSTELLATIONBRANDS",
+    "cik": "16918",
+    "total": 116011
+  },
+  {
+    "name": "Kinder Morgan, Inc.",
+    "ticker": "KINDERMORGAN",
+    "cik": "1506307",
+    "total": 114835
+  },
+  {
+    "name": "",
+    "ticker": "DEANFOODS",
+    "cik": "931336",
+    "total": 113638
+  },
+  {
+    "name": "Arch Resources, Inc.",
+    "ticker": "ARCHCOAL",
+    "cik": "1037676",
+    "total": 113605
+  },
+  {
+    "name": "Waste Management, Inc.",
+    "ticker": "WASTEMANAGEMENT",
+    "cik": "823768",
+    "total": 113585
+  },
+  {
+    "name": "",
+    "ticker": "MAXIMINTEGRATEDPROD",
+    "cik": "743316",
+    "total": 113047
+  },
+  {
+    "name": "",
+    "ticker": "CALPINE",
+    "cik": "916457",
+    "total": 112494
+  },
+  {
+    "name": "The Est\u00e9e Lauder Companies Inc.",
+    "ticker": "",
+    "cik": "1001250",
+    "total": 110773
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1385187",
+    "total": 110600
+  },
+  {
+    "name": "Stanley Black & Decker, Inc.",
+    "ticker": "STANLEYBLACKDECKER",
+    "cik": "93556",
+    "total": 109573
+  },
+  {
+    "name": "",
+    "ticker": "TESORO",
+    "cik": "50104",
+    "total": 107150
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "29669",
+    "total": 107040
+  },
+  {
+    "name": "Becton, Dickinson and Company",
+    "ticker": "BECTONDICKINSON",
+    "cik": "10795",
+    "total": 106683
+  },
+  {
+    "name": "",
+    "ticker": "BUCKEYEPARTNERS",
+    "cik": "805022",
+    "total": 106385
+  },
+  {
+    "name": "AbbVie Inc.",
+    "ticker": "ABBVIE",
+    "cik": "1551152",
+    "total": 105956
+  },
+  {
+    "name": "Hologic, Inc.",
+    "ticker": "HOLOGIC",
+    "cik": "859737",
+    "total": 105428
+  },
+  {
+    "name": "Lear Corporation",
+    "ticker": "LEAR",
+    "cik": "842162",
+    "total": 105248
+  },
+  {
+    "name": "Duke Energy Corporation",
+    "ticker": "DUKEENERGY",
+    "cik": "1326160",
+    "total": 105204
+  },
+  {
+    "name": "Graham Holdings Company",
+    "ticker": "",
+    "cik": "104889",
+    "total": 103871
+  },
+  {
+    "name": "Cummins Inc.",
+    "ticker": "CUMMINS",
+    "cik": "26172",
+    "total": 102168
+  },
+  {
+    "name": "Textron Inc.",
+    "ticker": "TEXTRON",
+    "cik": "217346",
+    "total": 101855
+  },
+  {
+    "name": "PACCAR Inc",
+    "ticker": "PACCAR",
+    "cik": "75362",
+    "total": 101338
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "941548",
+    "total": 99382
+  },
+  {
+    "name": "Dana Incorporated",
+    "ticker": "",
+    "cik": "26780",
+    "total": 98538
+  },
+  {
+    "name": "",
+    "ticker": "ALPHANATURALRESOURCES",
+    "cik": "1301063",
+    "total": 98329
+  },
+  {
+    "name": "",
+    "ticker": "LIFETECH",
+    "cik": "1073431",
+    "total": 97335
+  },
+  {
+    "name": "Dover Corporation",
+    "ticker": "DOVER",
+    "cik": "29905",
+    "total": 97075
+  },
+  {
+    "name": "Ecolab Inc.",
+    "ticker": "ECOLAB",
+    "cik": "31462",
+    "total": 96488
+  },
+  {
+    "name": "",
+    "ticker": "USG",
+    "cik": "757011",
+    "total": 95462
+  },
+  {
+    "name": "Jabil Inc.",
+    "ticker": "JABILCIRCUIT",
+    "cik": "898293",
+    "total": 95039
+  },
+  {
+    "name": "",
+    "ticker": "STJUDEMED",
+    "cik": "203077",
+    "total": 94339
+  },
+  {
+    "name": "Oshkosh Corporation",
+    "ticker": "OSHKOSH",
+    "cik": "775158",
+    "total": 94068
+  },
+  {
+    "name": "NOV Inc.",
+    "ticker": "NATOILWELLVARCO",
+    "cik": "1021860",
+    "total": 93818
+  },
+  {
+    "name": "",
+    "ticker": "PRECISIONCASTPARTS",
+    "cik": "79958",
+    "total": 93703
+  },
+  {
+    "name": "Eastman Chemical Company",
+    "ticker": "EASTMANCHEM",
+    "cik": "915389",
+    "total": 93477
+  },
+  {
+    "name": "Masco Corporation",
+    "ticker": "MASCO",
+    "cik": "62996",
+    "total": 92837
+  },
+  {
+    "name": "",
+    "ticker": "MOLYCORP",
+    "cik": "1489137",
+    "total": 92737
+  },
+  {
+    "name": "Xcel Energy Inc.",
+    "ticker": "XCELENERGY",
+    "cik": "72903",
+    "total": 92231
+  },
+  {
+    "name": "",
+    "ticker": "EXIDETECH",
+    "cik": "813781",
+    "total": 91785
+  },
+  {
+    "name": "Dominion Energy, Inc.",
+    "ticker": "",
+    "cik": "715957",
+    "total": 91291
+  },
+  {
+    "name": "CEMEX, S.A.B. de C.V.",
+    "ticker": "",
+    "cik": "1076378",
+    "total": 91159
+  },
+  {
+    "name": "Nucor Corporation",
+    "ticker": "NUCOR",
+    "cik": "73309",
+    "total": 90638
+  },
+  {
+    "name": "Parker-Hannifin Corporation",
+    "ticker": "PARKERHANNIFIN",
+    "cik": "76334",
+    "total": 89627
+  },
+  {
+    "name": "Terex Corporation",
+    "ticker": "TEREX",
+    "cik": "97216",
+    "total": 88520
+  },
+  {
+    "name": "Chicago Bridge & Iron Company N.V.",
+    "ticker": "",
+    "cik": "1027884",
+    "total": 88381
+  },
+  {
+    "name": "Ball Corporation",
+    "ticker": "BALL",
+    "cik": "9389",
+    "total": 87515
+  },
+  {
+    "name": "",
+    "ticker": "ORBITALATK",
+    "cik": "866121",
+    "total": 87438
+  },
+  {
+    "name": "SPX Technologies, Inc.",
+    "ticker": "SPX",
+    "cik": "88205",
+    "total": 87208
+  },
+  {
+    "name": "Pilgrim's Pride Corporation",
+    "ticker": "PILGRIMSPRIDE",
+    "cik": "802481",
+    "total": 87066
+  },
+  {
+    "name": "Polaris Inc.",
+    "ticker": "POLARISIND",
+    "cik": "931015",
+    "total": 87050
+  },
+  {
+    "name": "",
+    "ticker": "MERITOR",
+    "cik": "1113256",
+    "total": 86615
+  },
+  {
+    "name": "Celanese Corporation",
+    "ticker": "CELANESE",
+    "cik": "1306830",
+    "total": 86444
+  },
+  {
+    "name": "Newell Brands Inc.",
+    "ticker": "",
+    "cik": "814453",
+    "total": 86115
+  },
+  {
+    "name": "Analog Devices, Inc.",
+    "ticker": "ANALOGDEVICES",
+    "cik": "6281",
+    "total": 85276
+  },
+  {
+    "name": "Vulcan Materials Company",
+    "ticker": "VULCANMATERIALS",
+    "cik": "1396009",
+    "total": 84559
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1070423",
+    "total": 84336
+  },
+  {
+    "name": "L3Harris Technologies, Inc.",
+    "ticker": "",
+    "cik": "202058",
+    "total": 84224
+  },
+  {
+    "name": "CF Industries Holdings, Inc.",
+    "ticker": "CFIND",
+    "cik": "1324404",
+    "total": 82829
+  },
+  {
+    "name": "",
+    "ticker": "AKSTEELHOLDING",
+    "cik": "918160",
+    "total": 82670
+  },
+  {
+    "name": "",
+    "ticker": "HARMANINTIND",
+    "cik": "800459",
+    "total": 82377
+  },
+  {
+    "name": "Edgewell Personal Care Company",
+    "ticker": "",
+    "cik": "1096752",
+    "total": 81862
+  },
+  {
+    "name": "Exelon Corporation",
+    "ticker": "EXELON",
+    "cik": "1109357",
+    "total": 81383
+  },
+  {
+    "name": "Autoliv, Inc.",
+    "ticker": "",
+    "cik": "1034670",
+    "total": 81160
+  },
+  {
+    "name": "",
+    "ticker": "AXIALL",
+    "cik": "805264",
+    "total": 80706
+  },
+  {
+    "name": "TE Connectivity Ltd.",
+    "ticker": "",
+    "cik": "1385157",
+    "total": 79737
+  },
+  {
+    "name": "Smith & Wesson Brands, Inc.",
+    "ticker": "",
+    "cik": "1092796",
+    "total": 79516
+  },
+  {
+    "name": "NextEra Energy, Inc.",
+    "ticker": "NEXTERAENERGY",
+    "cik": "753308",
+    "total": 79499
+  },
+  {
+    "name": "",
+    "ticker": "AMERICANGREETINGS",
+    "cik": "5133",
+    "total": 79495
+  },
+  {
+    "name": "",
+    "ticker": "CHEMTURA",
+    "cik": "1091862",
+    "total": 78804
+  },
+  {
+    "name": "Brown-Forman Corporation",
+    "ticker": "BROWNFORMAN",
+    "cik": "14693",
+    "total": 78219
+  },
+  {
+    "name": "Sanmina Corporation",
+    "ticker": "SANMINA",
+    "cik": "897723",
+    "total": 78192
+  },
+  {
+    "name": "Keurig Dr Pepper Inc.",
+    "ticker": "",
+    "cik": "1418135",
+    "total": 78146
+  },
+  {
+    "name": "LyondellBasell Industries N.V.",
+    "ticker": "",
+    "cik": "1489393",
+    "total": 77971
+  },
+  {
+    "name": "Pentair plc",
+    "ticker": "",
+    "cik": "77360",
+    "total": 76964
+  },
+  {
+    "name": "Amphenol Corporation",
+    "ticker": "AMPHENOL",
+    "cik": "820313",
+    "total": 76391
+  },
+  {
+    "name": "ON Semiconductor Corporation",
+    "ticker": "ONSEMICONDUCTOR",
+    "cik": "1097864",
+    "total": 75970
+  },
+  {
+    "name": "",
+    "ticker": "PALL",
+    "cik": "75829",
+    "total": 75631
+  },
+  {
+    "name": "Genuine Parts Company",
+    "ticker": "GENUINEPARTS",
+    "cik": "40987",
+    "total": 75255
+  },
+  {
+    "name": "Republic Services, Inc.",
+    "ticker": "",
+    "cik": "1060391",
+    "total": 75252
+  },
+  {
+    "name": "",
+    "ticker": "AIRGAS",
+    "cik": "804212",
+    "total": 75225
+  },
+  {
+    "name": "Trinity Industries, Inc.",
+    "ticker": "TRINITYIND",
+    "cik": "99780",
+    "total": 75196
+  },
+  {
+    "name": "DTE Energy Company",
+    "ticker": "DTEENERGY",
+    "cik": "936340",
+    "total": 75074
+  },
+  {
+    "name": "AstraZeneca PLC",
+    "ticker": "",
+    "cik": "901832",
+    "total": 74691
+  },
+  {
+    "name": "Martin Marietta Materials, Inc.",
+    "ticker": "MARTINMARIETTAMATERIALS",
+    "cik": "916076",
+    "total": 74660
+  },
+  {
+    "name": "Hanesbrands Inc.",
+    "ticker": "HANESBRANDS",
+    "cik": "1359841",
+    "total": 74505
+  },
+  {
+    "name": "The Timken Company",
+    "ticker": "",
+    "cik": "98362",
+    "total": 74300
+  },
+  {
+    "name": "Topgolf Callaway Brands Corp.",
+    "ticker": "CALLAWAYGOLF",
+    "cik": "837465",
+    "total": 74233
+  },
+  {
+    "name": "Tempur Sealy International, Inc.",
+    "ticker": "",
+    "cik": "1206264",
+    "total": 74215
+  },
+  {
+    "name": "Garmin Ltd.",
+    "ticker": "",
+    "cik": "1121788",
+    "total": 74157
+  },
+  {
+    "name": "Sealed Air Corporation",
+    "ticker": "SEALEDAIR",
+    "cik": "1012100",
+    "total": 74076
+  },
+  {
+    "name": "The Manitowoc Company, Inc.",
+    "ticker": "",
+    "cik": "61986",
+    "total": 74039
+  },
+  {
+    "name": "Par Pacific Holdings, Inc.",
+    "ticker": "",
+    "cik": "821483",
+    "total": 73996
+  },
+  {
+    "name": "",
+    "ticker": "CAREFUSION",
+    "cik": "1457543",
+    "total": 73613
+  },
+  {
+    "name": "",
+    "ticker": "PATRIOTCOAL",
+    "cik": "1376812",
+    "total": 73535
+  },
+  {
+    "name": "",
+    "ticker": "MEADWESTVACO",
+    "cik": "1159297",
+    "total": 73277
+  },
+  {
+    "name": "",
+    "ticker": "CENVEO",
+    "cik": "920321",
+    "total": 73127
+  },
+  {
+    "name": "FMC Corporation",
+    "ticker": "FMC",
+    "cik": "37785",
+    "total": 72925
+  },
+  {
+    "name": "Hormel Foods Corporation",
+    "ticker": "HORMELFOODS",
+    "cik": "48465",
+    "total": 72884
+  },
+  {
+    "name": "LKQ Corporation",
+    "ticker": "",
+    "cik": "1065696",
+    "total": 72144
+  },
+  {
+    "name": "FirstEnergy Corp.",
+    "ticker": "FIRSTENERGY",
+    "cik": "1031296",
+    "total": 72082
+  },
+  {
+    "name": "Vector Group Ltd.",
+    "ticker": "VECTORGROUP",
+    "cik": "59440",
+    "total": 71961
+  },
+  {
+    "name": "Flowserve Corporation",
+    "ticker": "FLOWSERVE",
+    "cik": "30625",
+    "total": 71730
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "13239",
+    "total": 71118
+  },
+  {
+    "name": "Siemens Aktiengesellschaft",
+    "ticker": "",
+    "cik": "1135644",
+    "total": 70980
+  },
+  {
+    "name": "The Scotts Miracle-Gro Company",
+    "ticker": "",
+    "cik": "825542",
+    "total": 70509
+  },
+  {
+    "name": "",
+    "ticker": "CYPRESSSEMICONDUCTOR",
+    "cik": "791915",
+    "total": 70377
+  },
+  {
+    "name": "AAR Corp.",
+    "ticker": "AAR",
+    "cik": "1750",
+    "total": 69979
+  },
+  {
+    "name": "Armstrong World Industries, Inc.",
+    "ticker": "ARMSTRONGWORLDIND",
+    "cik": "7431",
+    "total": 69392
+  },
+  {
+    "name": "Avery Dennison Corporation",
+    "ticker": "AVERYDENNISON",
+    "cik": "8818",
+    "total": 69297
+  },
+  {
+    "name": "",
+    "ticker": "ROCKWOOD",
+    "cik": "1315695",
+    "total": 69095
+  },
+  {
+    "name": "Zoetis Inc.",
+    "ticker": "ZOETIS",
+    "cik": "1555280",
+    "total": 68787
+  },
+  {
+    "name": "Commercial Metals Company",
+    "ticker": "COMMLMETALS",
+    "cik": "22444",
+    "total": 68587
+  },
+  {
+    "name": "Skyworks Solutions, Inc.",
+    "ticker": "SKYWORKSSOLUTIONS",
+    "cik": "4127",
+    "total": 68442
+  },
+  {
+    "name": "Spirit AeroSystems Holdings, Inc.",
+    "ticker": "SPIRITAEROSYSTEMS",
+    "cik": "1364885",
+    "total": 68168
+  },
+  {
+    "name": "Aerojet Rocketdyne Holdings, Inc.",
+    "ticker": "",
+    "cik": "40888",
+    "total": 67809
+  },
+  {
+    "name": "Brunswick Corporation",
+    "ticker": "BRUNSWICK",
+    "cik": "14930",
+    "total": 67740
+  },
+  {
+    "name": "ATI Inc.",
+    "ticker": "ALLEGHENYTECH",
+    "cik": "1018963",
+    "total": 67623
+  },
+  {
+    "name": "",
+    "ticker": "HORSEHEADHOLDING",
+    "cik": "1385544",
+    "total": 67240
+  },
+  {
+    "name": "",
+    "ticker": "ROCKWELLCOLLINS",
+    "cik": "1137411",
+    "total": 67161
+  },
+  {
+    "name": "Rockwell Automation, Inc.",
+    "ticker": "ROCKWELLAUTOMATION",
+    "cik": "1024478",
+    "total": 67010
+  },
+  {
+    "name": "",
+    "ticker": "ACCURIDE",
+    "cik": "817979",
+    "total": 66994
+  },
+  {
+    "name": "",
+    "ticker": "BEAEROSPACE",
+    "cik": "861361",
+    "total": 66928
+  },
+  {
+    "name": "",
+    "ticker": "GOODRICH",
+    "cik": "42542",
+    "total": 66652
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1029506",
+    "total": 65833
+  },
+  {
+    "name": "Trane Technologies plc",
+    "ticker": "",
+    "cik": "1466258",
+    "total": 65653
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "943003",
+    "total": 65538
+  },
+  {
+    "name": "BorgWarner Inc.",
+    "ticker": "BORGWARNER",
+    "cik": "908255",
+    "total": 65167
+  },
+  {
+    "name": "Sinclair Broadcast Group, Inc.",
+    "ticker": "",
+    "cik": "912752",
+    "total": 65016
+  },
+  {
+    "name": "Clean Harbors, Inc.",
+    "ticker": "CLEANHARBORS",
+    "cik": "822818",
+    "total": 64818
+  },
+  {
+    "name": "",
+    "ticker": "JOYGLOBAL",
+    "cik": "801898",
+    "total": 64300
+  },
+  {
+    "name": "Resolute Forest Products Inc.",
+    "ticker": "",
+    "cik": "1393066",
+    "total": 64298
+  },
+  {
+    "name": "Rayonier Inc.",
+    "ticker": "RAYONIER",
+    "cik": "52827",
+    "total": 64254
+  },
+  {
+    "name": "ArcelorMittal S.A.",
+    "ticker": "",
+    "cik": "1243429",
+    "total": 64253
+  },
+  {
+    "name": "Phillips 66",
+    "ticker": "PHILLIPS66",
+    "cik": "1534701",
+    "total": 64074
+  },
+  {
+    "name": "",
+    "ticker": "BOBEVANSFARMS",
+    "cik": "33769",
+    "total": 63904
+  },
+  {
+    "name": "",
+    "ticker": "INGLESMARKETAB",
+    "cik": "50493",
+    "total": 63443
+  },
+  {
+    "name": "Panasonic Holdings Corporation",
+    "ticker": "",
+    "cik": "63271",
+    "total": 63389
+  },
+  {
+    "name": "PPL Corporation",
+    "ticker": "PPL",
+    "cik": "922224",
+    "total": 62776
+  },
+  {
+    "name": "AGCO Corporation",
+    "ticker": "AGCO",
+    "cik": "880266",
+    "total": 62673
+  },
+  {
+    "name": "Mohawk Industries, Inc.",
+    "ticker": "MOHAWKIND",
+    "cik": "851968",
+    "total": 62203
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1039101",
+    "total": 61992
+  },
+  {
+    "name": "The Southern Company",
+    "ticker": "SOUTHERN",
+    "cik": "92122",
+    "total": 61897
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "886035",
+    "total": 61879
+  },
+  {
+    "name": "Olin Corporation",
+    "ticker": "OLIN",
+    "cik": "74303",
+    "total": 61877
+  },
+  {
+    "name": "Owens Corning",
+    "ticker": "OWENSCORNING",
+    "cik": "1370946",
+    "total": 61755
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "708819",
+    "total": 61708
+  },
+  {
+    "name": "",
+    "ticker": "DYNEGY",
+    "cik": "1379895",
+    "total": 61615
+  },
+  {
+    "name": "",
+    "ticker": "CUBIC",
+    "cik": "26076",
+    "total": 61600
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "106455",
+    "total": 61111
+  },
+  {
+    "name": "",
+    "ticker": "ENERGYTRANSFEREQUITY",
+    "cik": "1276187",
+    "total": 61025
+  },
+  {
+    "name": "Steel Dynamics, Inc.",
+    "ticker": "STEELDYNAMICS",
+    "cik": "1022671",
+    "total": 60955
+  },
+  {
+    "name": "",
+    "ticker": "KEMET",
+    "cik": "887730",
+    "total": 60949
+  },
+  {
+    "name": "Coeur Mining, Inc.",
+    "ticker": "COEURMINING",
+    "cik": "215466",
+    "total": 60412
+  },
+  {
+    "name": "Darling Ingredients Inc.",
+    "ticker": "DARLINGINGREDIENTS",
+    "cik": "916540",
+    "total": 60097
+  },
+  {
+    "name": "Post Holdings, Inc.",
+    "ticker": "",
+    "cik": "1530950",
+    "total": 60033
+  },
+  {
+    "name": "THOR Industries, Inc.",
+    "ticker": "THORIND",
+    "cik": "730263",
+    "total": 59896
+  },
+  {
+    "name": "",
+    "ticker": "SOLUTIA",
+    "cik": "1043382",
+    "total": 59608
+  },
+  {
+    "name": "",
+    "ticker": "VARIANMEDSYSTEMS",
+    "cik": "203527",
+    "total": 59292
+  },
+  {
+    "name": "CTS Corporation",
+    "ticker": "CTS",
+    "cik": "26058",
+    "total": 59111
+  },
+  {
+    "name": "Marathon Petroleum Corporation",
+    "ticker": "",
+    "cik": "1510295",
+    "total": 59077
+  },
+  {
+    "name": "Cooper-Standard Holdings Inc.",
+    "ticker": "COOPERSTANDARD",
+    "cik": "1320461",
+    "total": 59027
+  },
+  {
+    "name": "",
+    "ticker": "ALONUSAENERGY",
+    "cik": "1325955",
+    "total": 58790
+  },
+  {
+    "name": "Lam Research Corporation",
+    "ticker": "LAMRES",
+    "cik": "707549",
+    "total": 58638
+  },
+  {
+    "name": "",
+    "ticker": "FERRO",
+    "cik": "35214",
+    "total": 58396
+  },
+  {
+    "name": "American Axle & Manufacturing Holdings, Inc.",
+    "ticker": "",
+    "cik": "1062231",
+    "total": 58217
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1338065",
+    "total": 58130
+  },
+  {
+    "name": "Teleflex Incorporated",
+    "ticker": "TELEFLEX",
+    "cik": "96943",
+    "total": 57743
+  },
+  {
+    "name": "Huntington Ingalls Industries, Inc.",
+    "ticker": "HUNTINGTONINGALLSIND",
+    "cik": "1501585",
+    "total": 57711
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1452575",
+    "total": 57695
+  },
+  {
+    "name": "GrafTech International Ltd.",
+    "ticker": "GRAFTECHINT",
+    "cik": "931148",
+    "total": 57630
+  },
+  {
+    "name": "TransDigm Group Incorporated",
+    "ticker": "TRANSDIGM",
+    "cik": "1260221",
+    "total": 57379
+  },
+  {
+    "name": "Avient Corporation",
+    "ticker": "",
+    "cik": "1122976",
+    "total": 57318
+  },
+  {
+    "name": "Church & Dwight Co., Inc.",
+    "ticker": "CHURCHDWIGHT",
+    "cik": "313927",
+    "total": 57305
+  },
+  {
+    "name": "Vishay Intertechnology, Inc.",
+    "ticker": "VISHAYINTERTECH",
+    "cik": "103730",
+    "total": 57279
+  },
+  {
+    "name": "Westinghouse Air Brake Technologies Corporation",
+    "ticker": "WABTEC",
+    "cik": "943452",
+    "total": 57130
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1297587",
+    "total": 57092
+  },
+  {
+    "name": "O-I Glass, Inc.",
+    "ticker": "",
+    "cik": "812074",
+    "total": 57029
+  },
+  {
+    "name": "RPM International Inc.",
+    "ticker": "",
+    "cik": "110621",
+    "total": 56989
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1126975",
+    "total": 56880
+  },
+  {
+    "name": "LSB Industries, Inc.",
+    "ticker": "LSBIND",
+    "cik": "60714",
+    "total": 56837
+  },
+  {
+    "name": "Aptiv PLC",
+    "ticker": "",
+    "cik": "1521332",
+    "total": 56762
+  },
+  {
+    "name": "",
+    "ticker": "INTRECTIFIER",
+    "cik": "316793",
+    "total": 56546
+  },
+  {
+    "name": "Huntsman Corporation",
+    "ticker": "",
+    "cik": "1307954",
+    "total": 56024
+  },
+  {
+    "name": "Albemarle Corporation",
+    "ticker": "ALBEMARLE",
+    "cik": "915913",
+    "total": 55965
+  },
+  {
+    "name": "",
+    "ticker": "BEMIS",
+    "cik": "11199",
+    "total": 55869
+  },
+  {
+    "name": "",
+    "ticker": "NOVELIS",
+    "cik": "1304280",
+    "total": 55755
+  },
+  {
+    "name": "",
+    "ticker": "CLOUDPEAKENERGY",
+    "cik": "1441849",
+    "total": 55347
+  },
+  {
+    "name": "Integra LifeSciences Holdings Corporation",
+    "ticker": "",
+    "cik": "917520",
+    "total": 55230
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "882835",
+    "total": 54509
+  },
+  {
+    "name": "Cabot Corporation",
+    "ticker": "CABOT",
+    "cik": "16040",
+    "total": 54488
+  },
+  {
+    "name": "Pyxus International, Inc.",
+    "ticker": "",
+    "cik": "939930",
+    "total": 54461
+  },
+  {
+    "name": "La-Z-Boy Incorporated",
+    "ticker": "LAZBOY",
+    "cik": "57131",
+    "total": 54368
+  },
+  {
+    "name": "Sturm, Ruger & Company, Inc.",
+    "ticker": "STURMRUGER",
+    "cik": "95029",
+    "total": 54105
+  },
+  {
+    "name": "Itron, Inc.",
+    "ticker": "ITRON",
+    "cik": "780571",
+    "total": 54051
+  },
+  {
+    "name": "",
+    "ticker": "MICROSEMI",
+    "cik": "310568",
+    "total": 53969
+  },
+  {
+    "name": "Sonoco Products Company",
+    "ticker": "SONOCOPROD",
+    "cik": "91767",
+    "total": 53829
+  },
+  {
+    "name": "Winnebago Industries, Inc.",
+    "ticker": "WINNEBAGOIND",
+    "cik": "107687",
+    "total": 53755
+  },
+  {
+    "name": "Kratos Defense & Security Solutions, Inc.",
+    "ticker": "",
+    "cik": "1069258",
+    "total": 53594
+  },
+  {
+    "name": "The Greenbrier Companies, Inc.",
+    "ticker": "GREENBRIER",
+    "cik": "923120",
+    "total": 53374
+  },
+  {
+    "name": "Titan International, Inc.",
+    "ticker": "",
+    "cik": "899751",
+    "total": 52970
+  },
+  {
+    "name": "Belden Inc.",
+    "ticker": "BELDEN",
+    "cik": "913142",
+    "total": 52958
+  },
+  {
+    "name": "International Flavors & Fragrances Inc.",
+    "ticker": "INTFLAVORSFRAGRANCES",
+    "cik": "51253",
+    "total": 52794
+  },
+  {
+    "name": "OGE Energy Corp.",
+    "ticker": "OGEENERGY",
+    "cik": "1021635",
+    "total": 52648
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1340122",
+    "total": 52635
+  },
+  {
+    "name": "Wabash National Corporation",
+    "ticker": "WABASHNAT",
+    "cik": "879526",
+    "total": 52517
+  },
+  {
+    "name": "",
+    "ticker": "EXELIS",
+    "cik": "1524471",
+    "total": 52483
+  },
+  {
+    "name": "CVR Energy, Inc.",
+    "ticker": "CVRENERGY",
+    "cik": "1376139",
+    "total": 52307
+  },
+  {
+    "name": "",
+    "ticker": "SEACOR",
+    "cik": "859598",
+    "total": 52281
+  },
+  {
+    "name": "Sensata Technologies Holding plc",
+    "ticker": "",
+    "cik": "1477294",
+    "total": 52266
+  },
+  {
+    "name": "Edwards Lifesciences Corporation",
+    "ticker": "EDWARDSLIFESCI",
+    "cik": "1099800",
+    "total": 52079
+  },
+  {
+    "name": "Lennox International Inc.",
+    "ticker": "",
+    "cik": "1069202",
+    "total": 52053
+  },
+  {
+    "name": "Eaton Corporation plc",
+    "ticker": "",
+    "cik": "1551182",
+    "total": 51989
+  },
+  {
+    "name": "Leggett & Platt, Incorporated",
+    "ticker": "LEGGETTPLATT",
+    "cik": "58492",
+    "total": 51924
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1161154",
+    "total": 51905
+  },
+  {
+    "name": "",
+    "ticker": "FMCTECH",
+    "cik": "1135152",
+    "total": 51845
+  },
+  {
+    "name": "Steelcase Inc.",
+    "ticker": "STEELCASE",
+    "cik": "1050825",
+    "total": 51777
+  },
+  {
+    "name": "Gevo, Inc.",
+    "ticker": "GEVO",
+    "cik": "1392380",
+    "total": 51752
+  },
+  {
+    "name": "Valmont Industries, Inc.",
+    "ticker": "VALMONTIND",
+    "cik": "102729",
+    "total": 51572
+  },
+  {
+    "name": "Black Hills Corporation",
+    "ticker": "BLACKHILLS",
+    "cik": "1130464",
+    "total": 51370
+  },
+  {
+    "name": "",
+    "ticker": "BRIGGSSTRATTON",
+    "cik": "14195",
+    "total": 51220
+  },
+  {
+    "name": "",
+    "ticker": "BROADWINDENERGY",
+    "cik": "1120370",
+    "total": 51008
+  },
+  {
+    "name": "Kirby Corporation",
+    "ticker": "KIRBY",
+    "cik": "56047",
+    "total": 50892
+  },
+  {
+    "name": "Tenneco Inc.",
+    "ticker": "TENNECO",
+    "cik": "1024725",
+    "total": 50883
+  },
+  {
+    "name": "Griffon Corporation",
+    "ticker": "GRIFFON",
+    "cik": "50725",
+    "total": 50780
+  },
+  {
+    "name": "Snap-on Incorporated",
+    "ticker": "SNAPON",
+    "cik": "91440",
+    "total": 50722
+  },
+  {
+    "name": "World Fuel Services Corporation",
+    "ticker": "",
+    "cik": "789460",
+    "total": 50615
+  },
+  {
+    "name": "TriMas Corporation",
+    "ticker": "TRIMAS",
+    "cik": "842633",
+    "total": 50593
+  },
+  {
+    "name": "NiSource Inc.",
+    "ticker": "NISOURCE",
+    "cik": "1111711",
+    "total": 50225
+  },
+  {
+    "name": "The Middleby Corporation",
+    "ticker": "",
+    "cik": "769520",
+    "total": 50079
+  },
+  {
+    "name": "",
+    "ticker": "NORTEK",
+    "cik": "1216596",
+    "total": 50012
+  },
+  {
+    "name": "Century Aluminum Company",
+    "ticker": "CENTURYALUMINUM",
+    "cik": "949157",
+    "total": 50005
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "754737",
+    "total": 49980
+  },
+  {
+    "name": "Microchip Technology Incorporated",
+    "ticker": "MICROCHIPTECH",
+    "cik": "827054",
+    "total": 49327
+  },
+  {
+    "name": "Crown Holdings, Inc.",
+    "ticker": "CROWN",
+    "cik": "1219601",
+    "total": 49310
+  },
+  {
+    "name": "",
+    "ticker": "FAIRCHILDSEMICONDUCTOR",
+    "cik": "1036960",
+    "total": 49288
+  },
+  {
+    "name": "Regal Rexnord Corporation",
+    "ticker": "REGALBELOIT",
+    "cik": "82811",
+    "total": 49171
+  },
+  {
+    "name": "Reliance Steel & Aluminum Co.",
+    "ticker": "",
+    "cik": "861884",
+    "total": 49103
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1463258",
+    "total": 49056
+  },
+  {
+    "name": "Tidewater Inc.",
+    "ticker": "TIDEWATER",
+    "cik": "98222",
+    "total": 48994
+  },
+  {
+    "name": "Triumph Group, Inc.",
+    "ticker": "",
+    "cik": "1021162",
+    "total": 48842
+  },
+  {
+    "name": "",
+    "ticker": "THOMPSONCREEKMETALS",
+    "cik": "1415020",
+    "total": 48723
+  },
+  {
+    "name": "Trimble Inc.",
+    "ticker": "",
+    "cik": "864749",
+    "total": 48375
+  },
+  {
+    "name": "",
+    "ticker": "CYTECIND",
+    "cik": "912513",
+    "total": 48272
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "33619",
+    "total": 48177
+  },
+  {
+    "name": "Myers Industries, Inc.",
+    "ticker": "MYERSIND",
+    "cik": "69488",
+    "total": 47845
+  },
+  {
+    "name": "",
+    "ticker": "NBTY",
+    "cik": "70793",
+    "total": 47837
+  },
+  {
+    "name": "IES Holdings, Inc.",
+    "ticker": "",
+    "cik": "1048268",
+    "total": 47669
+  },
+  {
+    "name": "Genesis Energy, L.P.",
+    "ticker": "GENESISENERGY",
+    "cik": "1022321",
+    "total": 47128
+  },
+  {
+    "name": "",
+    "ticker": "APITECH",
+    "cik": "1081078",
+    "total": 47019
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1292556",
+    "total": 46960
+  },
+  {
+    "name": "",
+    "ticker": "ENERGYSOLUTIONS",
+    "cik": "1393744",
+    "total": 46919
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1053650",
+    "total": 46911
+  },
+  {
+    "name": "EnerSys",
+    "ticker": "ENERSYS",
+    "cik": "1289308",
+    "total": 46895
+  },
+  {
+    "name": "Harsco Corporation",
+    "ticker": "HARSCO",
+    "cik": "45876",
+    "total": 46726
+  },
+  {
+    "name": "Flotek Industries, Inc.",
+    "ticker": "",
+    "cik": "928054",
+    "total": 46519
+  },
+  {
+    "name": "Materion Corporation",
+    "ticker": "MATERION",
+    "cik": "1104657",
+    "total": 46424
+  },
+  {
+    "name": "Nektar Therapeutics",
+    "ticker": "NEKTARTHERAPEUTICS",
+    "cik": "906709",
+    "total": 46419
+  },
+  {
+    "name": "Ethan Allen Interiors Inc.",
+    "ticker": "",
+    "cik": "896156",
+    "total": 46289
+  },
+  {
+    "name": "Lannett Company, Inc.",
+    "ticker": "LANNETT",
+    "cik": "57725",
+    "total": 46287
+  },
+  {
+    "name": "Federal Signal Corporation",
+    "ticker": "FEDERALSIGNAL",
+    "cik": "277509",
+    "total": 46109
+  },
+  {
+    "name": "Entergy Corporation",
+    "ticker": "ENTERGY",
+    "cik": "65984",
+    "total": 46097
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1392091",
+    "total": 45964
+  },
+  {
+    "name": "Chart Industries, Inc.",
+    "ticker": "CHARTIND",
+    "cik": "892553",
+    "total": 45937
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "102741",
+    "total": 45494
+  },
+  {
+    "name": "Coty Inc.",
+    "ticker": "",
+    "cik": "1024305",
+    "total": 45430
+  },
+  {
+    "name": "Worthington Industries, Inc.",
+    "ticker": "WORTHINGTONIND",
+    "cik": "108516",
+    "total": 45405
+  },
+  {
+    "name": "Ingredion Incorporated",
+    "ticker": "INGREDION",
+    "cik": "1046257",
+    "total": 45276
+  },
+  {
+    "name": "Hecla Mining Company",
+    "ticker": "HECLAMINING",
+    "cik": "719413",
+    "total": 45151
+  },
+  {
+    "name": "Greif, Inc.",
+    "ticker": "GREIF",
+    "cik": "43920",
+    "total": 44732
+  },
+  {
+    "name": "AZZ Inc.",
+    "ticker": "AZZ",
+    "cik": "8947",
+    "total": 44653
+  },
+  {
+    "name": "Graco Inc.",
+    "ticker": "GRACO",
+    "cik": "42888",
+    "total": 44243
+  },
+  {
+    "name": "Granite Construction Incorporated",
+    "ticker": "GRANITECONSTR",
+    "cik": "861459",
+    "total": 43972
+  },
+  {
+    "name": "Benchmark Electronics, Inc.",
+    "ticker": "BENCHMARKELECTRONICS",
+    "cik": "863436",
+    "total": 43466
+  },
+  {
+    "name": "AMETEK, Inc.",
+    "ticker": "AMETEK",
+    "cik": "1037868",
+    "total": 43348
+  },
+  {
+    "name": "",
+    "ticker": "DRESSERRAND",
+    "cik": "1316656",
+    "total": 43187
+  },
+  {
+    "name": "",
+    "ticker": "FEDERALMOGUL",
+    "cik": "1419581",
+    "total": 43163
+  },
+  {
+    "name": "Central Garden & Pet Company",
+    "ticker": "CENTGARDENPET",
+    "cik": "887733",
+    "total": 43141
+  },
+  {
+    "name": "",
+    "ticker": "ONEOKPARTNERS",
+    "cik": "909281",
+    "total": 43116
+  },
+  {
+    "name": "Barnes Group Inc.",
+    "ticker": "",
+    "cik": "9984",
+    "total": 43114
+  },
+  {
+    "name": "MDU Resources Group, Inc.",
+    "ticker": "MDURESOURCESGROUP",
+    "cik": "67716",
+    "total": 42968
+  },
+  {
+    "name": "Packaging Corporation of America",
+    "ticker": "PACKAGINGCORPOFAMERICA",
+    "cik": "75677",
+    "total": 42750
+  },
+  {
+    "name": "Moog Inc.",
+    "ticker": "MOOG",
+    "cik": "67887",
+    "total": 42468
+  },
+  {
+    "name": "Louisiana-Pacific Corporation",
+    "ticker": "LOUISIANAPACIFIC",
+    "cik": "60519",
+    "total": 42354
+  },
+  {
+    "name": "Kennametal Inc.",
+    "ticker": "KENNAMETAL",
+    "cik": "55242",
+    "total": 42252
+  },
+  {
+    "name": "Plexus Corp.",
+    "ticker": "PLEXUS",
+    "cik": "785786",
+    "total": 41934
+  },
+  {
+    "name": "The Toro Company",
+    "ticker": "TORO",
+    "cik": "737758",
+    "total": 41894
+  },
+  {
+    "name": "Hubbell Incorporated",
+    "ticker": "HUBBELL",
+    "cik": "48898",
+    "total": 41837
+  },
+  {
+    "name": "Kaman Corporation",
+    "ticker": "KAMAN",
+    "cik": "54381",
+    "total": 41810
+  },
+  {
+    "name": "Quad/Graphics, Inc.",
+    "ticker": "QUADGRAPHICS",
+    "cik": "1481792",
+    "total": 41810
+  },
+  {
+    "name": "Bio-Rad Laboratories, Inc.",
+    "ticker": "BIORADLAB",
+    "cik": "12208",
+    "total": 41747
+  },
+  {
+    "name": "Carpenter Technology Corporation",
+    "ticker": "CARPENTERTECH",
+    "cik": "17843",
+    "total": 41688
+  },
+  {
+    "name": "OSI Systems, Inc.",
+    "ticker": "OSISYSTEMS",
+    "cik": "1039065",
+    "total": 41556
+  },
+  {
+    "name": "",
+    "ticker": "IECELECTRONICS",
+    "cik": "49728",
+    "total": 41484
+  },
+  {
+    "name": "",
+    "ticker": "DOMTAR",
+    "cik": "1381531",
+    "total": 41452
+  },
+  {
+    "name": "Eagle Materials Inc.",
+    "ticker": "EAGLEMATERIALS",
+    "cik": "918646",
+    "total": 41399
+  },
+  {
+    "name": "Mueller Water Products, Inc.",
+    "ticker": "MUELLERWATERPROD",
+    "cik": "1350593",
+    "total": 41239
+  },
+  {
+    "name": "Global Partners LP",
+    "ticker": "GLOBALPARTNERS",
+    "cik": "1323468",
+    "total": 41192
+  },
+  {
+    "name": "Schnitzer Steel Industries, Inc.",
+    "ticker": "",
+    "cik": "912603",
+    "total": 41116
+  },
+  {
+    "name": "MGP Ingredients, Inc.",
+    "ticker": "MGPINGREDIENTS",
+    "cik": "835011",
+    "total": 40988
+  },
+  {
+    "name": "Superior Industries International, Inc.",
+    "ticker": "SUPERIORINDINT",
+    "cik": "95552",
+    "total": 40981
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1176334",
+    "total": 40690
+  },
+  {
+    "name": "",
+    "ticker": "USCONCRETE",
+    "cik": "1073429",
+    "total": 40597
+  },
+  {
+    "name": "Lincoln Electric Holdings, Inc.",
+    "ticker": "",
+    "cik": "59527",
+    "total": 40562
+  },
+  {
+    "name": "Rogers Corporation",
+    "ticker": "ROGERS",
+    "cik": "84748",
+    "total": 40528
+  },
+  {
+    "name": "Ameren Corporation",
+    "ticker": "AMEREN",
+    "cik": "1002910",
+    "total": 40502
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1418862",
+    "total": 40430
+  },
+  {
+    "name": "Hillenbrand, Inc.",
+    "ticker": "HILLENBRAND",
+    "cik": "1417398",
+    "total": 40153
+  },
+  {
+    "name": "Hexcel Corporation",
+    "ticker": "HEXCEL",
+    "cik": "717605",
+    "total": 39860
+  },
+  {
+    "name": "SunCoke Energy, Inc.",
+    "ticker": "SUNCOKEENERGY",
+    "cik": "1514705",
+    "total": 39834
+  },
+  {
+    "name": "Silgan Holdings Inc.",
+    "ticker": "SILGAN",
+    "cik": "849869",
+    "total": 39825
+  },
+  {
+    "name": "Curtiss-Wright Corporation",
+    "ticker": "CURTISSWRIGHT",
+    "cik": "26324",
+    "total": 39798
+  },
+  {
+    "name": "Sabre Corporation",
+    "ticker": "SABRE",
+    "cik": "1597033",
+    "total": 39763
+  },
+  {
+    "name": "Compass Minerals International, Inc.",
+    "ticker": "",
+    "cik": "1227654",
+    "total": 39698
+  },
+  {
+    "name": "Woodward, Inc.",
+    "ticker": "WOODWARD",
+    "cik": "108312",
+    "total": 39443
+  },
+  {
+    "name": "Teledyne Technologies Incorporated",
+    "ticker": "TELEDYNETECH",
+    "cik": "1094285",
+    "total": 39437
+  },
+  {
+    "name": "TTM Technologies, Inc.",
+    "ticker": "TTMTECH",
+    "cik": "1116942",
+    "total": 39424
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1002590",
+    "total": 39155
+  },
+  {
+    "name": "",
+    "ticker": "SANDERSONFARMS",
+    "cik": "812128",
+    "total": 39054
+  },
+  {
+    "name": "HEICO Corporation",
+    "ticker": "",
+    "cik": "46619",
+    "total": 39023
+  },
+  {
+    "name": "Element Solutions Inc",
+    "ticker": "",
+    "cik": "1590714",
+    "total": 38892
+  },
+  {
+    "name": "EnPro Industries, Inc.",
+    "ticker": "ENPROIND",
+    "cik": "1164863",
+    "total": 38848
+  },
+  {
+    "name": "BWX Technologies, Inc.",
+    "ticker": "",
+    "cik": "1486957",
+    "total": 38555
+  },
+  {
+    "name": "NACCO Industries, Inc.",
+    "ticker": "NACCOIND",
+    "cik": "789933",
+    "total": 38257
+  },
+  {
+    "name": "Perrigo Company plc",
+    "ticker": "",
+    "cik": "1585364",
+    "total": 38238
+  },
+  {
+    "name": "TreeHouse Foods, Inc.",
+    "ticker": "TREEHOUSEFOODS",
+    "cik": "1320695",
+    "total": 38155
+  },
+  {
+    "name": "Integer Holdings Corporation",
+    "ticker": "",
+    "cik": "1114483",
+    "total": 38037
+  },
+  {
+    "name": "PBF Energy Inc.",
+    "ticker": "",
+    "cik": "1534504",
+    "total": 38018
+  },
+  {
+    "name": "",
+    "ticker": "STEINWAYMUSICALINSTR",
+    "cik": "911583",
+    "total": 37923
+  },
+  {
+    "name": "Carlisle Companies Incorporated",
+    "ticker": "CARLISLE",
+    "cik": "790051",
+    "total": 37850
+  },
+  {
+    "name": "Donaldson Company, Inc.",
+    "ticker": "DONALDSON",
+    "cik": "29644",
+    "total": 37621
+  },
+  {
+    "name": "Westlake Corporation",
+    "ticker": "WESTLAKECHEM",
+    "cik": "1262823",
+    "total": 37562
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1344596",
+    "total": 37488
+  },
+  {
+    "name": "NewMarket Corporation",
+    "ticker": "NEWMARKET",
+    "cik": "1282637",
+    "total": 37270
+  },
+  {
+    "name": "National Presto Industries, Inc.",
+    "ticker": "NATPRESTOIND",
+    "cik": "80172",
+    "total": 37138
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1001606",
+    "total": 37062
+  },
+  {
+    "name": "",
+    "ticker": "COMMSCOPE",
+    "cik": "1035884",
+    "total": 36753
+  },
+  {
+    "name": "",
+    "ticker": "ELECTRONICSFORIMAGING",
+    "cik": "867374",
+    "total": 36636
+  },
+  {
+    "name": "",
+    "ticker": "STILLWATERMINING",
+    "cik": "931948",
+    "total": 36489
+  },
+  {
+    "name": "Matthews International Corporation",
+    "ticker": "",
+    "cik": "63296",
+    "total": 36455
+  },
+  {
+    "name": "",
+    "ticker": "WAUSAUPAPER",
+    "cik": "105076",
+    "total": 36318
+  },
+  {
+    "name": "Seaboard Corporation",
+    "ticker": "SEABOARD",
+    "cik": "88121",
+    "total": 36271
+  },
+  {
+    "name": "Lindsay Corporation",
+    "ticker": "LINDSAY",
+    "cik": "836157",
+    "total": 36270
+  },
+  {
+    "name": "Allison Transmission Holdings, Inc.",
+    "ticker": "",
+    "cik": "1411207",
+    "total": 35918
+  },
+  {
+    "name": "Core Laboratories N.V.",
+    "ticker": "",
+    "cik": "1000229",
+    "total": 35889
+  },
+  {
+    "name": "Brady Corporation",
+    "ticker": "BRADY",
+    "cik": "746598",
+    "total": 35815
+  },
+  {
+    "name": "",
+    "ticker": "LMIAEROSPACE",
+    "cik": "1059562",
+    "total": 35764
+  },
+  {
+    "name": "The Andersons, Inc.",
+    "ticker": "",
+    "cik": "821026",
+    "total": 35691
+  },
+  {
+    "name": "Modine Manufacturing Company",
+    "ticker": "MODINEMFG",
+    "cik": "67347",
+    "total": 35684
+  },
+  {
+    "name": "",
+    "ticker": "CARBOCERAMICS",
+    "cik": "1009672",
+    "total": 35540
+  },
+  {
+    "name": "CMS Energy Corporation",
+    "ticker": "CMSENERGY",
+    "cik": "811156",
+    "total": 35302
+  },
+  {
+    "name": "Entegris, Inc.",
+    "ticker": "ENTEGRIS",
+    "cik": "1101302",
+    "total": 35107
+  },
+  {
+    "name": "American Vanguard Corporation",
+    "ticker": "AMERICANVANGUARD",
+    "cik": "5981",
+    "total": 34578
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1487730",
+    "total": 34478
+  },
+  {
+    "name": "Seneca Foods Corporation",
+    "ticker": "SENECAFOODS",
+    "cik": "88948",
+    "total": 34425
+  },
+  {
+    "name": "Ampco-Pittsburgh Corporation",
+    "ticker": "AMPCOPITTSBURGH",
+    "cik": "6176",
+    "total": 34328
+  },
+  {
+    "name": "Sensient Technologies Corporation",
+    "ticker": "SENSIENTTECH",
+    "cik": "310142",
+    "total": 34277
+  },
+  {
+    "name": "",
+    "ticker": "HUTCHINSONTECH",
+    "cik": "772897",
+    "total": 34265
+  },
+  {
+    "name": "",
+    "ticker": "SABRE",
+    "cik": "1020265",
+    "total": 33954
+  },
+  {
+    "name": "Berry Global Group, Inc.",
+    "ticker": "",
+    "cik": "1378992",
+    "total": 33950
+  },
+  {
+    "name": "Generac Holdings Inc.",
+    "ticker": "GENERAC",
+    "cik": "1474735",
+    "total": 33646
+  },
+  {
+    "name": "IDEX Corporation",
+    "ticker": "IDEX",
+    "cik": "832101",
+    "total": 33535
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1321646",
+    "total": 33483
+  },
+  {
+    "name": "Graphic Packaging Holding Company",
+    "ticker": "GRAPHICPACKAGINGHOLDING",
+    "cik": "1408075",
+    "total": 33479
+  },
+  {
+    "name": "",
+    "ticker": "TECOENERGY",
+    "cik": "350563",
+    "total": 33425
+  },
+  {
+    "name": "Clarus Corporation",
+    "ticker": "",
+    "cik": "913277",
+    "total": 33282
+  },
+  {
+    "name": "HNI Corporation",
+    "ticker": "HNI",
+    "cik": "48287",
+    "total": 33269
+  },
+  {
+    "name": "",
+    "ticker": "REDDYICE",
+    "cik": "1268984",
+    "total": 32550
+  },
+  {
+    "name": "Nordson Corporation",
+    "ticker": "NORDSON",
+    "cik": "72331",
+    "total": 32348
+  },
+  {
+    "name": "American Woodmark Corporation",
+    "ticker": "AMERICANWOODMARK",
+    "cik": "794619",
+    "total": 32197
+  },
+  {
+    "name": "Xylem Inc.",
+    "ticker": "XYLEM",
+    "cik": "1524472",
+    "total": 32172
+  },
+  {
+    "name": "NN, Inc.",
+    "ticker": "",
+    "cik": "918541",
+    "total": 32016
+  },
+  {
+    "name": "Northwest Pipe Company",
+    "ticker": "NORTHWESTPIPE",
+    "cik": "1001385",
+    "total": 31847
+  },
+  {
+    "name": "Commercial Vehicle Group, Inc.",
+    "ticker": "",
+    "cik": "1290900",
+    "total": 31774
+  },
+  {
+    "name": "Standard Motor Products, Inc.",
+    "ticker": "STANDARDMOTORPROD",
+    "cik": "93389",
+    "total": 31759
+  },
+  {
+    "name": "Vertex Energy, Inc.",
+    "ticker": "VERTEXENERGY",
+    "cik": "890447",
+    "total": 31752
+  },
+  {
+    "name": "",
+    "ticker": "ZEP",
+    "cik": "1408287",
+    "total": 31660
+  },
+  {
+    "name": "",
+    "ticker": "RTIINTMETALS",
+    "cik": "1068717",
+    "total": 31582
+  },
+  {
+    "name": "Fortune Brands Home & Security, Inc.",
+    "ticker": "",
+    "cik": "1519751",
+    "total": 31231
+  },
+  {
+    "name": "Astec Industries, Inc.",
+    "ticker": "ASTECIND",
+    "cik": "792987",
+    "total": 31155
+  },
+  {
+    "name": "Watts Water Technologies, Inc.",
+    "ticker": "WATTSWATERTECH",
+    "cik": "795403",
+    "total": 31119
+  },
+  {
+    "name": "",
+    "ticker": "GLOBESPECIALTYMETALS",
+    "cik": "1383571",
+    "total": 31047
+  },
+  {
+    "name": "",
+    "ticker": "METALICO",
+    "cik": "1048685",
+    "total": 30966
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "890923",
+    "total": 30907
+  },
+  {
+    "name": "A. O. Smith Corporation",
+    "ticker": "",
+    "cik": "91142",
+    "total": 30636
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "17313",
+    "total": 30625
+  },
+  {
+    "name": "",
+    "ticker": "LIBBEY",
+    "cik": "902274",
+    "total": 30408
+  },
+  {
+    "name": "",
+    "ticker": "THOMASBETTS",
+    "cik": "97854",
+    "total": 30291
+  },
+  {
+    "name": "ALLETE, Inc.",
+    "ticker": "ALLETE",
+    "cik": "66756",
+    "total": 30275
+  },
+  {
+    "name": "",
+    "ticker": "OMNOVASOLUTIONS",
+    "cik": "1090061",
+    "total": 30193
+  },
+  {
+    "name": "",
+    "ticker": "STANLEYFURNITURE",
+    "cik": "797465",
+    "total": 30177
+  },
+  {
+    "name": "Littelfuse, Inc.",
+    "ticker": "LITTELFUSE",
+    "cik": "889331",
+    "total": 30175
+  },
+  {
+    "name": "Mueller Industries, Inc.",
+    "ticker": "MUELLERIND",
+    "cik": "89439",
+    "total": 30119
+  },
+  {
+    "name": "Franklin Electric Co., Inc.",
+    "ticker": "FRANKLINELECTRIC",
+    "cik": "38725",
+    "total": 30067
+  },
+  {
+    "name": "Clearwater Paper Corporation",
+    "ticker": "CLEARWATERPAPER",
+    "cik": "1441236",
+    "total": 29849
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1089976",
+    "total": 29816
+  },
+  {
+    "name": "",
+    "ticker": "KNOLL",
+    "cik": "1011570",
+    "total": 29539
+  },
+  {
+    "name": "Pinnacle West Capital Corporation",
+    "ticker": "PINNACLEWESTCAPITAL",
+    "cik": "764622",
+    "total": 29420
+  },
+  {
+    "name": "Matrix Service Company",
+    "ticker": "MATRIXSERVICE",
+    "cik": "866273",
+    "total": 29362
+  },
+  {
+    "name": "Columbus McKinnon Corporation",
+    "ticker": "COLUMBUSMCKINNON",
+    "cik": "1005229",
+    "total": 29352
+  },
+  {
+    "name": "Diodes Incorporated",
+    "ticker": "DIODES",
+    "cik": "29002",
+    "total": 29237
+  },
+  {
+    "name": "Ryerson Holding Corporation",
+    "ticker": "",
+    "cik": "1481582",
+    "total": 29164
+  },
+  {
+    "name": "Consolidated Edison, Inc.",
+    "ticker": "",
+    "cik": "1047862",
+    "total": 29067
+  },
+  {
+    "name": "Chase Corporation",
+    "ticker": "CHASE",
+    "cik": "830524",
+    "total": 29017
+  },
+  {
+    "name": "Komatsu Ltd.",
+    "ticker": "",
+    "cik": "56594",
+    "total": 28810
+  },
+  {
+    "name": "Trex Company, Inc.",
+    "ticker": "",
+    "cik": "1069878",
+    "total": 28756
+  },
+  {
+    "name": "",
+    "ticker": "ASSOCMATERIALS",
+    "cik": "802967",
+    "total": 28712
+  },
+  {
+    "name": "Standex International Corporation",
+    "ticker": "",
+    "cik": "310354",
+    "total": 28574
+  },
+  {
+    "name": "Newpark Resources, Inc.",
+    "ticker": "NEWPARKRESOURCES",
+    "cik": "71829",
+    "total": 28514
+  },
+  {
+    "name": "Pacira BioSciences, Inc.",
+    "ticker": "PACIRAPHARM",
+    "cik": "1396814",
+    "total": 28498
+  },
+  {
+    "name": "Gentex Corporation",
+    "ticker": "GENTEX",
+    "cik": "355811",
+    "total": 28491
+  },
+  {
+    "name": "Quaker Chemical Corporation",
+    "ticker": "",
+    "cik": "81362",
+    "total": 28477
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "813621",
+    "total": 28477
+  },
+  {
+    "name": "CIRCOR International, Inc.",
+    "ticker": "",
+    "cik": "1091883",
+    "total": 28441
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1062822",
+    "total": 28188
+  },
+  {
+    "name": "",
+    "ticker": "AMERICANPACIFIC",
+    "cik": "350832",
+    "total": 28142
+  },
+  {
+    "name": "",
+    "ticker": "UNIVERSALFORESTPROD",
+    "cik": "912767",
+    "total": 28104
+  },
+  {
+    "name": "ESCO Technologies Inc.",
+    "ticker": "ESCOTECH",
+    "cik": "866706",
+    "total": 28043
+  },
+  {
+    "name": "Gibraltar Industries, Inc.",
+    "ticker": "GIBRALTARIND",
+    "cik": "912562",
+    "total": 27969
+  },
+  {
+    "name": "",
+    "ticker": "CDTECH",
+    "cik": "808064",
+    "total": 27944
+  },
+  {
+    "name": "Haynes International, Inc.",
+    "ticker": "",
+    "cik": "858655",
+    "total": 27890
+  },
+  {
+    "name": "",
+    "ticker": "SIFCOIND",
+    "cik": "90168",
+    "total": 27739
+  },
+  {
+    "name": "TETRA Technologies, Inc.",
+    "ticker": "TETRATECH",
+    "cik": "844965",
+    "total": 27534
+  },
+  {
+    "name": "",
+    "ticker": "DAKTRONICS",
+    "cik": "915779",
+    "total": 27462
+  },
+  {
+    "name": "",
+    "ticker": "AAON",
+    "cik": "824142",
+    "total": 27336
+  },
+  {
+    "name": "Innospec Inc.",
+    "ticker": "INNOSPEC",
+    "cik": "1054905",
+    "total": 27321
+  },
+  {
+    "name": "",
+    "ticker": "VERSO",
+    "cik": "1421182",
+    "total": 26932
+  },
+  {
+    "name": "",
+    "ticker": "CLEANDIESELTECH",
+    "cik": "949428",
+    "total": 26917
+  },
+  {
+    "name": "J&J Snack Foods Corp.",
+    "ticker": "",
+    "cik": "785956",
+    "total": 26902
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "314132",
+    "total": 26875
+  },
+  {
+    "name": "Apogee Enterprises, Inc.",
+    "ticker": "APOGEEENTERPRISES",
+    "cik": "6845",
+    "total": 26872
+  },
+  {
+    "name": "Zurn Elkay Water Solutions Corporation",
+    "ticker": "REXNORD",
+    "cik": "1439288",
+    "total": 26678
+  },
+  {
+    "name": "Public Service Enterprise Group Incorporated",
+    "ticker": "",
+    "cik": "788784",
+    "total": 26566
+  },
+  {
+    "name": "",
+    "ticker": "ARCGROUPWORLDWIDE",
+    "cik": "826326",
+    "total": 26387
+  },
+  {
+    "name": "",
+    "ticker": "METHODEELECTRONICS",
+    "cik": "65270",
+    "total": 26384
+  },
+  {
+    "name": "Rayonier Advanced Materials Inc.",
+    "ticker": "RAYONIERADVANCEDMATERIALS",
+    "cik": "1597672",
+    "total": 26127
+  },
+  {
+    "name": "",
+    "ticker": "SHILOHIND",
+    "cik": "904979",
+    "total": 26122
+  },
+  {
+    "name": "Escalade, Incorporated",
+    "ticker": "",
+    "cik": "33488",
+    "total": 26098
+  },
+  {
+    "name": "",
+    "ticker": "DURAAUTOMOTIVESYSTEMS",
+    "cik": "1016177",
+    "total": 25994
+  },
+  {
+    "name": "L.B. Foster Company",
+    "ticker": "",
+    "cik": "352825",
+    "total": 25952
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1564822",
+    "total": 25829
+  },
+  {
+    "name": "Dril-Quip, Inc.",
+    "ticker": "DRILQUIP",
+    "cik": "1042893",
+    "total": 25643
+  },
+  {
+    "name": "Neogen Corporation",
+    "ticker": "NEOGEN",
+    "cik": "711377",
+    "total": 25431
+  },
+  {
+    "name": "",
+    "ticker": "MULTICOLOR",
+    "cik": "819220",
+    "total": 25363
+  },
+  {
+    "name": "Koppers Holdings Inc.",
+    "ticker": "KOPPERS",
+    "cik": "1315257",
+    "total": 25199
+  },
+  {
+    "name": "Ducommun Incorporated",
+    "ticker": "DUCOMMUN",
+    "cik": "30305",
+    "total": 25177
+  },
+  {
+    "name": "Core Molding Technologies, Inc.",
+    "ticker": "COREMOLDINGTECH",
+    "cik": "1026655",
+    "total": 25124
+  },
+  {
+    "name": "Alpha and Omega Semiconductor Limited",
+    "ticker": "",
+    "cik": "1387467",
+    "total": 25111
+  },
+  {
+    "name": "",
+    "ticker": "NEENAHPAPER",
+    "cik": "1296435",
+    "total": 25076
+  },
+  {
+    "name": "",
+    "ticker": "KAYDON",
+    "cik": "740694",
+    "total": 25002
+  },
+  {
+    "name": "Gerdau S.A.",
+    "ticker": "",
+    "cik": "1073404",
+    "total": 24979
+  },
+  {
+    "name": "Murphy USA Inc.",
+    "ticker": "MURPHY",
+    "cik": "1573516",
+    "total": 24841
+  },
+  {
+    "name": "Minerals Technologies Inc.",
+    "ticker": "MINERALSTECH",
+    "cik": "891014",
+    "total": 24831
+  },
+  {
+    "name": "Alamo Group Inc.",
+    "ticker": "",
+    "cik": "897077",
+    "total": 24808
+  },
+  {
+    "name": "",
+    "ticker": "RAVENIND",
+    "cik": "82166",
+    "total": 24668
+  },
+  {
+    "name": "Patrick Industries, Inc.",
+    "ticker": "PATRICKIND",
+    "cik": "76605",
+    "total": 24625
+  },
+  {
+    "name": "Alliant Energy Corporation",
+    "ticker": "ALLIANTENERGY",
+    "cik": "352541",
+    "total": 24588
+  },
+  {
+    "name": "Encore Wire Corporation",
+    "ticker": "ENCOREWIRE",
+    "cik": "850460",
+    "total": 24585
+  },
+  {
+    "name": "Forum Energy Technologies, Inc.",
+    "ticker": "FORUMENERGYTECH",
+    "cik": "1401257",
+    "total": 24447
+  },
+  {
+    "name": "AptarGroup, Inc.",
+    "ticker": "APTARGROUP",
+    "cik": "896622",
+    "total": 24400
+  },
+  {
+    "name": "The Shyft Group, Inc.",
+    "ticker": "SPARTANMOTORS",
+    "cik": "743238",
+    "total": 24364
+  },
+  {
+    "name": "Tredegar Corporation",
+    "ticker": "TREDEGAR",
+    "cik": "850429",
+    "total": 24354
+  },
+  {
+    "name": "",
+    "ticker": "CAMBREX",
+    "cik": "820081",
+    "total": 24348
+  },
+  {
+    "name": "",
+    "ticker": "STONERIDGE",
+    "cik": "1043337",
+    "total": 24343
+  },
+  {
+    "name": "",
+    "ticker": "MILACRON",
+    "cik": "716823",
+    "total": 24158
+  },
+  {
+    "name": "Balchem Corporation",
+    "ticker": "BALCHEM",
+    "cik": "9326",
+    "total": 24080
+  },
+  {
+    "name": "LCI Industries",
+    "ticker": "",
+    "cik": "763744",
+    "total": 23900
+  },
+  {
+    "name": "",
+    "ticker": "SIGMATRONINT",
+    "cik": "915358",
+    "total": 23898
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "925548",
+    "total": 23829
+  },
+  {
+    "name": "MACOM Technology Solutions Holdings, Inc.",
+    "ticker": "MACOMTECHSOLUTIONS",
+    "cik": "1493594",
+    "total": 23356
+  },
+  {
+    "name": "Nidec Corporation",
+    "ticker": "",
+    "cik": "1158967",
+    "total": 23224
+  },
+  {
+    "name": "",
+    "ticker": "SMARTMODULARTECH",
+    "cik": "1326973",
+    "total": 23058
+  },
+  {
+    "name": "Park Aerospace Corp.",
+    "ticker": "PARKELECTROCHEM",
+    "cik": "76267",
+    "total": 22680
+  },
+  {
+    "name": "",
+    "ticker": "NVENERGY",
+    "cik": "741508",
+    "total": 22606
+  },
+  {
+    "name": "Hawaiian Electric Industries, Inc.",
+    "ticker": "HAWAIIANELECTRICIND",
+    "cik": "354707",
+    "total": 22171
+  },
+  {
+    "name": "Kyocera Corporation",
+    "ticker": "",
+    "cik": "57083",
+    "total": 22143
+  },
+  {
+    "name": "Virco Mfg. Corporation",
+    "ticker": "VIRCOMFG",
+    "cik": "751365",
+    "total": 22106
+  },
+  {
+    "name": "",
+    "ticker": "TECHPRECISION",
+    "cik": "1328792",
+    "total": 21958
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1334478",
+    "total": 21951
+  },
+  {
+    "name": "",
+    "ticker": "LYDALL",
+    "cik": "60977",
+    "total": 21942
+  },
+  {
+    "name": "Park-Ohio Holdings Corp.",
+    "ticker": "PARKOHIO",
+    "cik": "76282",
+    "total": 21827
+  },
+  {
+    "name": "",
+    "ticker": "CHROMCRAFTREVINGTON",
+    "cik": "884130",
+    "total": 21803
+  },
+  {
+    "name": "",
+    "ticker": "ANAREN",
+    "cik": "6314",
+    "total": 21802
+  },
+  {
+    "name": "Manitex International, Inc.",
+    "ticker": "",
+    "cik": "1302028",
+    "total": 21773
+  },
+  {
+    "name": "The Gorman-Rupp Company",
+    "ticker": "GORMANRUPP",
+    "cik": "42682",
+    "total": 21772
+  },
+  {
+    "name": "",
+    "ticker": "DAYTONSUPERIOR",
+    "cik": "854709",
+    "total": 21750
+  },
+  {
+    "name": "Astronics Corporation",
+    "ticker": "ASTRONICS",
+    "cik": "8063",
+    "total": 21730
+  },
+  {
+    "name": "Hawkins, Inc.",
+    "ticker": "HAWKINS",
+    "cik": "46250",
+    "total": 21666
+  },
+  {
+    "name": "Insteel Industries, Inc.",
+    "ticker": "INSTEELIND",
+    "cik": "764401",
+    "total": 21544
+  },
+  {
+    "name": "Mativ Holdings, Inc.",
+    "ticker": "SCHWEITZERMAUDUITINT",
+    "cik": "1000623",
+    "total": 21524
+  },
+  {
+    "name": "Malibu Boats, Inc.",
+    "ticker": "MALIBUBOATS",
+    "cik": "1590976",
+    "total": 21524
+  },
+  {
+    "name": "Powell Industries, Inc.",
+    "ticker": "POWELLIND",
+    "cik": "80420",
+    "total": 21472
+  },
+  {
+    "name": "",
+    "ticker": "INNOPHOS",
+    "cik": "1364099",
+    "total": 21436
+  },
+  {
+    "name": "",
+    "ticker": "PERMAFIXENVIRONMENTALSERVICES",
+    "cik": "891532",
+    "total": 21435
+  },
+  {
+    "name": "Tronox Holdings plc",
+    "ticker": "TRONOX",
+    "cik": "1530804",
+    "total": 21277
+  },
+  {
+    "name": "The Chemours Company",
+    "ticker": "",
+    "cik": "1627223",
+    "total": 21245
+  },
+  {
+    "name": "Masonite International Corporation",
+    "ticker": "MASONITE",
+    "cik": "893691",
+    "total": 20980
+  },
+  {
+    "name": "Lancaster Colony Corporation",
+    "ticker": "LANCASTERCOLONY",
+    "cik": "57515",
+    "total": 20959
+  },
+  {
+    "name": "PotlatchDeltic Corporation",
+    "ticker": "",
+    "cik": "1338749",
+    "total": 20955
+  },
+  {
+    "name": "Medtronic plc",
+    "ticker": "",
+    "cik": "1613103",
+    "total": 20915
+  },
+  {
+    "name": "Helios Technologies, Inc.",
+    "ticker": "",
+    "cik": "1024795",
+    "total": 20843
+  },
+  {
+    "name": "Badger Meter, Inc.",
+    "ticker": "BADGERMETER",
+    "cik": "9092",
+    "total": 20828
+  },
+  {
+    "name": "",
+    "ticker": "COLEMANCABLE",
+    "cik": "1323653",
+    "total": 20670
+  },
+  {
+    "name": "Gulf Island Fabrication, Inc.",
+    "ticker": "GULFISLANDFAB",
+    "cik": "1031623",
+    "total": 20530
+  },
+  {
+    "name": "",
+    "ticker": "AMERICANCOMMLLINES",
+    "cik": "1324479",
+    "total": 20416
+  },
+  {
+    "name": "Tenaris S.A.",
+    "ticker": "",
+    "cik": "1190723",
+    "total": 20355
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1452217",
+    "total": 20308
+  },
+  {
+    "name": "Altra Industrial Motion Corp.",
+    "ticker": "ALTRAINDMOTION",
+    "cik": "1374535",
+    "total": 20040
+  },
+  {
+    "name": "",
+    "ticker": "LANDEC",
+    "cik": "1005286",
+    "total": 20034
+  },
+  {
+    "name": "Kadant Inc.",
+    "ticker": "KADANT",
+    "cik": "886346",
+    "total": 20026
+  },
+  {
+    "name": "",
+    "ticker": "BELFUSE",
+    "cik": "729580",
+    "total": 19974
+  },
+  {
+    "name": "",
+    "ticker": "NANOPHASETECH",
+    "cik": "883107",
+    "total": 19950
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1423221",
+    "total": 19940
+  },
+  {
+    "name": "",
+    "ticker": "CAVCOIND",
+    "cik": "278166",
+    "total": 19850
+  },
+  {
+    "name": "",
+    "ticker": "THEEMPIREDISTRICTELECTRIC",
+    "cik": "32689",
+    "total": 19698
+  },
+  {
+    "name": "Axalta Coating Systems Ltd.",
+    "ticker": "AXALTACOATINGSYSTEMS",
+    "cik": "1616862",
+    "total": 19681
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "943897",
+    "total": 19410
+  },
+  {
+    "name": "",
+    "ticker": "WOLVERINETUBE",
+    "cik": "821407",
+    "total": 19290
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1452857",
+    "total": 19130
+  },
+  {
+    "name": "Douglas Dynamics, Inc.",
+    "ticker": "DOUGLASDYNAMICS",
+    "cik": "1287213",
+    "total": 18874
+  },
+  {
+    "name": "",
+    "ticker": "LAFARGENORTHAMERICA",
+    "cik": "716783",
+    "total": 18820
+  },
+  {
+    "name": "Stepan Company",
+    "ticker": "STEPAN",
+    "cik": "94049",
+    "total": 18503
+  },
+  {
+    "name": "",
+    "ticker": "SCHAWK",
+    "cik": "719164",
+    "total": 18346
+  },
+  {
+    "name": "John Bean Technologies Corporation",
+    "ticker": "",
+    "cik": "1433660",
+    "total": 18307
+  },
+  {
+    "name": "Preformed Line Products Company",
+    "ticker": "PREFORMEDLINEPROD",
+    "cik": "80035",
+    "total": 18229
+  },
+  {
+    "name": "Boise Cascade Company",
+    "ticker": "BOISECASCADE",
+    "cik": "1328581",
+    "total": 18202
+  },
+  {
+    "name": "Keysight Technologies, Inc.",
+    "ticker": "",
+    "cik": "1601046",
+    "total": 17619
+  },
+  {
+    "name": "",
+    "ticker": "HAYESLEMMERZINT",
+    "cik": "1237941",
+    "total": 17555
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "2178",
+    "total": 17546
+  },
+  {
+    "name": "",
+    "ticker": "NEENAHENTERPRISES",
+    "cik": "855667",
+    "total": 17228
+  },
+  {
+    "name": "Targa Resources Corp.",
+    "ticker": "TARGARESOURCES",
+    "cik": "1389170",
+    "total": 17085
+  },
+  {
+    "name": "",
+    "ticker": "SYPRISSOLUTIONS",
+    "cik": "864240",
+    "total": 16474
+  },
+  {
+    "name": "Hyster-Yale Materials Handling, Inc.",
+    "ticker": "HYSTERYALEMATERIALSHANDLING",
+    "cik": "1173514",
+    "total": 16234
+  },
+  {
+    "name": "",
+    "ticker": "WOODBRIDGE",
+    "cik": "1218320",
+    "total": 16187
+  },
+  {
+    "name": "Univar Solutions Inc.",
+    "ticker": "",
+    "cik": "1494319",
+    "total": 16105
+  },
+  {
+    "name": "Aspen Aerogels, Inc.",
+    "ticker": "ASPENAEROGELS",
+    "cik": "1145986",
+    "total": 16010
+  },
+  {
+    "name": "The Kraft Heinz Company",
+    "ticker": "",
+    "cik": "1637459",
+    "total": 15953
+  },
+  {
+    "name": "Vista Outdoor Inc.",
+    "ticker": "",
+    "cik": "1616318",
+    "total": 15750
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "745026",
+    "total": 15695
+  },
+  {
+    "name": "FutureFuel Corp.",
+    "ticker": "FUTUREFUEL",
+    "cik": "1337298",
+    "total": 15667
+  },
+  {
+    "name": "Hudson Technologies, Inc.",
+    "ticker": "HUDSONTECH",
+    "cik": "925528",
+    "total": 15592
+  },
+  {
+    "name": "RBC Bearings Incorporated",
+    "ticker": "RBCBEARINGS",
+    "cik": "1324948",
+    "total": 15436
+  },
+  {
+    "name": "",
+    "ticker": "MONARCHCEMENT",
+    "cik": "67517",
+    "total": 15191
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1620546",
+    "total": 15070
+  },
+  {
+    "name": "Phibro Animal Health Corporation",
+    "ticker": "PHIBROANIMALHEALTH",
+    "cik": "1069899",
+    "total": 14842
+  },
+  {
+    "name": "",
+    "ticker": "JACUZZIBRANDS",
+    "cik": "1056874",
+    "total": 14558
+  },
+  {
+    "name": "",
+    "ticker": "UNSENERGY",
+    "cik": "941138",
+    "total": 14488
+  },
+  {
+    "name": "",
+    "ticker": "SUPERIORESSEX",
+    "cik": "1271193",
+    "total": 14236
+  },
+  {
+    "name": "Otter Tail Corporation",
+    "ticker": "OTTERTAIL",
+    "cik": "1466593",
+    "total": 14127
+  },
+  {
+    "name": "",
+    "ticker": "ARRYTHMIARESTECH",
+    "cik": "819689",
+    "total": 13981
+  },
+  {
+    "name": "TimkenSteel Corporation",
+    "ticker": "TIMKENSTEEL",
+    "cik": "1598428",
+    "total": 13812
+  },
+  {
+    "name": "MGE Energy, Inc.",
+    "ticker": "MGEENERGY",
+    "cik": "1161728",
+    "total": 13769
+  },
+  {
+    "name": "Weatherford International plc",
+    "ticker": "",
+    "cik": "1603923",
+    "total": 13763
+  },
+  {
+    "name": "",
+    "ticker": "ALLIEDMOTIONTECH",
+    "cik": "46129",
+    "total": 13664
+  },
+  {
+    "name": "",
+    "ticker": "KEYSTONECONSOLIND",
+    "cik": "55604",
+    "total": 13643
+  },
+  {
+    "name": "",
+    "ticker": "GLOBALBRASSCOPPER",
+    "cik": "1533526",
+    "total": 13590
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1371781",
+    "total": 13571
+  },
+  {
+    "name": "Ascent Industries Co.",
+    "ticker": "SYNALLOY",
+    "cik": "95953",
+    "total": 13347
+  },
+  {
+    "name": "Sprague Resources LP",
+    "ticker": "SPRAGUERESOURCES",
+    "cik": "1525287",
+    "total": 13185
+  },
+  {
+    "name": "",
+    "ticker": "PALMHARBORHOMES",
+    "cik": "923473",
+    "total": 12919
+  },
+  {
+    "name": "",
+    "ticker": "ANCHORGLASSCONTAINER",
+    "cik": "1052163",
+    "total": 12845
+  },
+  {
+    "name": "United States Lime & Minerals, Inc.",
+    "ticker": "USLIMEMINERALS",
+    "cik": "82020",
+    "total": 12832
+  },
+  {
+    "name": "",
+    "ticker": "MAVERICKTUBE",
+    "cik": "869087",
+    "total": 12819
+  },
+  {
+    "name": "",
+    "ticker": "OCEANBIOCHEM",
+    "cik": "350737",
+    "total": 12621
+  },
+  {
+    "name": "",
+    "ticker": "AMERICANBILTRITE",
+    "cik": "4611",
+    "total": 12464
+  },
+  {
+    "name": "",
+    "ticker": "YOUNGINNOVATIONS",
+    "cik": "949874",
+    "total": 12268
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "748790",
+    "total": 12099
+  },
+  {
+    "name": "Catalent, Inc.",
+    "ticker": "",
+    "cik": "1596783",
+    "total": 12063
+  },
+  {
+    "name": "Qorvo, Inc.",
+    "ticker": "QORVO",
+    "cik": "1604778",
+    "total": 11438
+  },
+  {
+    "name": "",
+    "ticker": "ALLIEDHEALTHCAREPROD",
+    "cik": "874710",
+    "total": 11208
+  },
+  {
+    "name": "",
+    "ticker": "NORTEK",
+    "cik": "72423",
+    "total": 10939
+  },
+  {
+    "name": "",
+    "ticker": "GIANTCEMENTHOLDING",
+    "cik": "922405",
+    "total": 10769
+  },
+  {
+    "name": "",
+    "ticker": "QEP",
+    "cik": "1017815",
+    "total": 10265
+  },
+  {
+    "name": "",
+    "ticker": "UNITEDFUELENERGY",
+    "cik": "1137031",
+    "total": 9718
+  },
+  {
+    "name": "Enviva Inc.",
+    "ticker": "",
+    "cik": "1592057",
+    "total": 9645
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1604665",
+    "total": 9585
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1616817",
+    "total": 9131
+  },
+  {
+    "name": "",
+    "ticker": "DEANFOODS",
+    "cik": "27500",
+    "total": 8613
+  },
+  {
+    "name": "",
+    "ticker": "MESTEK",
+    "cik": "65195",
+    "total": 8392
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1604416",
+    "total": 8312
+  },
+  {
+    "name": "Energizer Holdings, Inc.",
+    "ticker": "",
+    "cik": "1632790",
+    "total": 8033
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1345126",
+    "total": 7531
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1622536",
+    "total": 7421
+  },
+  {
+    "name": "Summit Materials, Inc.",
+    "ticker": "",
+    "cik": "1621563",
+    "total": 7399
+  },
+  {
+    "name": "",
+    "ticker": "VISKASE",
+    "cik": "33073",
+    "total": 7025
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1641991",
+    "total": 6457
+  },
+  {
+    "name": "Kimball Electronics, Inc.",
+    "ticker": "",
+    "cik": "1606757",
+    "total": 6404
+  },
+  {
+    "name": "",
+    "ticker": "UNITEDCAPITAL",
+    "cik": "65358",
+    "total": 6143
+  },
+  {
+    "name": "",
+    "ticker": "ADVANCEDLIGHTINGTECH",
+    "cik": "1002125",
+    "total": 5640
+  },
+  {
+    "name": "",
+    "ticker": "HYDRIL",
+    "cik": "1116030",
+    "total": 5385
+  },
+  {
+    "name": "",
+    "ticker": "EDELBROCK",
+    "cik": "929037",
+    "total": 5124
+  },
+  {
+    "name": "",
+    "ticker": "TROY",
+    "cik": "1060595",
+    "total": 4583
+  },
+  {
+    "name": "",
+    "ticker": "LIMCOPIEDMONT",
+    "cik": "1395943",
+    "total": 4507
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1637913",
+    "total": 4443
+  },
+  {
+    "name": "CSW Industrials, Inc.",
+    "ticker": "",
+    "cik": "1624794",
+    "total": 4430
+  },
+  {
+    "name": "",
+    "ticker": "KENT",
+    "cik": "728478",
+    "total": 4279
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1431880",
+    "total": 4176
+  },
+  {
+    "name": "",
+    "ticker": "COORSTEK",
+    "cik": "1095603",
+    "total": 4157
+  },
+  {
+    "name": "",
+    "ticker": "GOLDENSTATEVINTNERS",
+    "cik": "1059581",
+    "total": 4140
+  },
+  {
+    "name": "",
+    "ticker": "FABIND",
+    "cik": "34136",
+    "total": 4118
+  },
+  {
+    "name": "AB SKF (publ)",
+    "ticker": "",
+    "cik": "777504",
+    "total": 3974
+  },
+  {
+    "name": "",
+    "ticker": "MALLINCKRODTGROUP",
+    "cik": "51396",
+    "total": 3483
+  },
+  {
+    "name": "",
+    "ticker": "PUBLICSERVICECOOFNEWMEXICO",
+    "cik": "81025",
+    "total": 3299
+  },
+  {
+    "name": "",
+    "ticker": "WEBCOIND",
+    "cik": "916314",
+    "total": 3256
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1643848",
+    "total": 3227
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "85149",
+    "total": 3106
+  },
+  {
+    "name": "",
+    "ticker": "MINUTEMANINT",
+    "cik": "810876",
+    "total": 3039
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "93102",
+    "total": 2953
+  },
+  {
+    "name": "",
+    "ticker": "CONRADIND",
+    "cik": "1059167",
+    "total": 2504
+  },
+  {
+    "name": "",
+    "ticker": "MILLERIND",
+    "cik": "66388",
+    "total": 2412
+  },
+  {
+    "name": "",
+    "ticker": "METALLURG",
+    "cik": "1030992",
+    "total": 2109
+  },
+  {
+    "name": "",
+    "ticker": "NCH",
+    "cik": "69960",
+    "total": 2078
+  },
+  {
+    "name": "",
+    "ticker": "CCI",
+    "cik": "1117034",
+    "total": 1896
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1019900",
+    "total": 1868
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "21627",
+    "total": 1805
+  },
+  {
+    "name": "",
+    "ticker": "MICHAELFOODS",
+    "cik": "811930",
+    "total": 1696
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1001149",
+    "total": 1619
+  },
+  {
+    "name": "",
+    "ticker": "DETREX",
+    "cik": "28372",
+    "total": 1615
+  },
+  {
+    "name": "",
+    "ticker": "UNIVAR",
+    "cik": "101929",
+    "total": 1550
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1644440",
+    "total": 1458
+  },
+  {
+    "name": "",
+    "ticker": "CHASEIND",
+    "cik": "928950",
+    "total": 1349
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1650962",
+    "total": 1333
+  },
+  {
+    "name": "Ingevity Corporation",
+    "ticker": "",
+    "cik": "1653477",
+    "total": 1331
+  },
+  {
+    "name": "",
+    "ticker": "LIFETECH",
+    "cik": "727737",
+    "total": 1326
+  },
+  {
+    "name": "",
+    "ticker": "NEWCOR",
+    "cik": "71745",
+    "total": 1320
+  },
+  {
+    "name": "",
+    "ticker": "NESCO",
+    "cik": "922868",
+    "total": 1042
+  },
+  {
+    "name": "",
+    "ticker": "CASTLECOOKE",
+    "cik": "1002506",
+    "total": 1036
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "106752",
+    "total": 919
+  },
+  {
+    "name": "",
+    "ticker": "GLEASON",
+    "cik": "743239",
+    "total": 825
+  },
+  {
+    "name": "",
+    "ticker": "DENALI",
+    "cik": "1046594",
+    "total": 715
+  },
+  {
+    "name": "",
+    "ticker": "PMC",
+    "cik": "765815",
+    "total": 649
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "797320",
+    "total": 585
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "835405",
+    "total": 533
+  },
+  {
+    "name": "Fortive Corporation",
+    "ticker": "",
+    "cik": "1659166",
+    "total": 514
+  },
+  {
+    "name": "",
+    "ticker": "MORGAN",
+    "cik": "906609",
+    "total": 415
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1660690",
+    "total": 222
+  },
+  {
+    "name": "",
+    "ticker": "SUNPHARM",
+    "cik": "884888",
+    "total": 167
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1005388",
+    "total": 125
+  },
+  {
+    "name": "",
+    "ticker": "BURNHAM",
+    "cik": "1022508",
+    "total": 77
+  },
+  {
+    "name": "",
+    "ticker": "",
+    "cik": "1637512",
+    "total": 52
+  }
+]

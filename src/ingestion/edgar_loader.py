@@ -4,7 +4,7 @@ EDGAR daily download data pipeline.
 The Notre Dame SRAF dataset (Loughran & McDonald 2017) provides daily
 filing download counts per (cik, accession, date). This module:
   1. Downloads the compressed daily data from SRAF Google Drive
-  2. Filters to the top 100 firms by total download volume
+  2. Filters to the 731 firms by total download volume
   3. Saves a clean parquet file for event study analysis
 
 Raw data schema:
@@ -28,7 +28,7 @@ from tqdm import tqdm
 ROOT = Path(__file__).resolve().parents[2]
 RAW_DIR = ROOT / "data" / "raw" / "edgar_daily"
 PROCESSED_DIR = ROOT / "data" / "processed"
-TOP100_PATH = ROOT / "data" / "top100_firms.json"
+FIRM_UNIVERSE_PATH = ROOT / "data" / "firm_universe.json"
 
 # SRAF compressed daily data — hosted on Google Drive
 # Source: https://sraf.nd.edu/data/edgar-server-log/
@@ -38,7 +38,7 @@ SRAF_FILENAME = "EDGAR_Log_File_Data.zip"
 
 
 def load_top100_ciks() -> set:
-    with open(TOP100_PATH) as f:
+    with open(FIRM_UNIVERSE_PATH) as f:
         firms = json.load(f)
     return {str(f["cik"]) for f in firms}
 
@@ -87,7 +87,7 @@ def download_sraf_data(dest: Path = RAW_DIR) -> Path:
 
 def process_sraf_data(zip_path: Path, top100_ciks: set) -> pd.DataFrame:
     """
-    Extract and filter SRAF daily data to top 100 firms.
+    Extract and filter SRAF daily data to 731 firms.
     Returns a DataFrame with daily download counts per (cik, accession, date).
     """
     print("Processing SRAF zip file...")
@@ -106,7 +106,7 @@ def process_sraf_data(zip_path: Path, top100_ciks: set) -> pd.DataFrame:
                         parse_dates=["date", "filing_date"],
                         low_memory=False,
                     )
-                    # filter to top 100 firms immediately to keep memory low
+                    # filter to 731 firms immediately to keep memory low
                     df = df[df["cik"].isin(top100_ciks)]
                     if len(df) > 0:
                         dfs.append(df)
@@ -114,15 +114,15 @@ def process_sraf_data(zip_path: Path, top100_ciks: set) -> pd.DataFrame:
                     print(f"  Warning: skipped {fname} ({e})")
 
     if not dfs:
-        raise ValueError("No data found for top 100 firms in SRAF archive")
+        raise ValueError("No data found for 731 firms in SRAF archive")
 
     result = pd.concat(dfs, ignore_index=True)
-    print(f"Loaded {len(result):,} rows for top 100 firms")
+    print(f"Loaded {len(result):,} rows for 731 firms")
     return result
 
 
 def enrich_with_firm_names(df: pd.DataFrame) -> pd.DataFrame:
-    with open(TOP100_PATH) as f:
+    with open(FIRM_UNIVERSE_PATH) as f:
         firms = json.load(f)
     cik_to_name = {f["cik"]: f["name"] for f in firms}
     df["company_name"] = df["cik"].map(cik_to_name)
