@@ -78,17 +78,7 @@ Standard errors are HC3 heteroskedasticity-robust.
 
 ## Key Findings
 
-> *Note: results below are from the full analysis on real data. Run `python main.py --real` after configuring WRDS access.*
-
-| Model | LM Tone Coefficient | p-value | R² |
-|---|---|---|---|
-| Tone only | − | < 0.05 | — |
-| + Firm/Year FE | − | < 0.05 | — |
-| + Crisis interaction | − | < 0.05 | — |
-
-**Interpretation:** A one-unit decrease in LM tone (more negative) is associated with a statistically significant increase in 30-day cumulative abnormal downloads, after controlling for firm and year fixed effects.
-
-The crisis interaction tests whether this effect differs in magnitude during 2007–2009 — a period where information asymmetry was unusually high across the financial system.
+**Results pending real data.** The full findings table will be populated once WRDS transcript access is confirmed and `python main.py --real` has been run. The pipeline, methodology, and app are complete — this section will be updated with actual coefficients, p-values, and interpretation.
 
 ---
 
