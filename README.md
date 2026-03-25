@@ -6,7 +6,9 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![LlamaIndex](https://img.shields.io/badge/RAG-LlamaIndex-orange)
 ![Streamlit](https://img.shields.io/badge/App-Streamlit-red)
-![Status](https://img.shields.io/badge/Status-Active-green)
+![Status](https://img.shields.io/badge/Status-Under%20Construction-yellow)
+
+> **⚠️ Under Construction** — Pipeline and app are fully built and running. Currently using synthetic data for development while awaiting access to real earnings call transcripts (WRDS). Findings table will be updated with real results once data is in place.
 
 ---
 
