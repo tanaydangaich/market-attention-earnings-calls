@@ -1,0 +1,61 @@
+Market Attention Shifts Around Earnings Calls — Pending Items
+Last updated: 2026-03-25
+
+=======================================================
+BLOCKERS (waiting on external)
+=======================================================
+
+1. WRDS approval
+   → run: python main.py --real
+   → replaces all synthetic data with real SRAF + Refinitiv transcripts
+
+2. OpenAI key in .env
+   → run: python -c "from src.rag.indexer import build_index; build_index()"
+   → activates the Ask the Transcripts tab in the Streamlit app
+
+=======================================================
+ONCE WRDS COMES THROUGH
+=======================================================
+
+3. Validate WRDS transcript pipeline
+   → src/ingestion/transcript_loader.py
+   → WRDS table names may need adjustment for your institution's access level
+
+4. Fix tone scorer performance
+   → src/analysis/tone_scorer.py is row-by-row iteration — too slow for 37K transcripts
+   → needs vectorization before running on full 731-firm real dataset
+
+5. Sanity check regression results
+   → do the coefficients make sense on real data?
+   → expected: negative lm_tone coefficient (more negative tone → more downloads)
+
+6. Fill in findings table in README
+   → replace "Results pending real data" with actual coefficients + p-values
+
+7. Remove "Under Construction" banners from README
+
+=======================================================
+POLISH (can do anytime)
+=======================================================
+
+8. EDA notebook
+   → notebooks/01_eda_edgar.ipynb
+   → shows analytical thinking, useful in interviews
+
+9. Update README author links
+   → LinkedIn and GitHub URLs are currently placeholders
+
+10. Deploy to Streamlit Cloud
+    → free hosting at streamlit.io/cloud
+    → gives a live shareable URL to put on resume/LinkedIn
+
+=======================================================
+KNOWN ISSUES
+=======================================================
+
+- tone_scorer.py is slow (row-by-row pandas apply)
+  Fine for 5K transcripts, will timeout on 37K. Fix before running --real.
+
+- Mock data was regenerated for all 731 firms but tone scoring + event study
+  were NOT re-run (killed due to slowness). Processed files in data/processed/
+  still reflect the earlier 5K-transcript run. This is fine for demo purposes.
