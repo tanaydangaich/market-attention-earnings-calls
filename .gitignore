@@ -12,5 +12,4 @@ build/
 chroma_db/
 *.parquet
 *.csv
-!firm_year_downloads_with_names.csv
 notebooks/.ipynb_checkpoints/
