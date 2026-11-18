@@ -188,4 +188,4 @@ This project fills a specific gap: **none of the above papers directly test earn
 **Tanay Dangaich**
 MS Information Technology & Analytics
 Former Data Scientist, Merkle (credit risk modeling: XGBoost, SHAP, A/B testing)
-[LinkedIn](https://linkedin.com/in/tanaydangaich) · [GitHub](https://github.com/tanaydangaich)
+[LinkedIn](https://www.linkedin.com/in/tanay-dangaich/) · [GitHub](https://github.com/tanaydangaich)
